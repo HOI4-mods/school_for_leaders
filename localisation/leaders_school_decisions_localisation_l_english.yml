@@ -1,0 +1,311 @@
+﻿l_english:
+ 
+ leaders_school_country_category:0 "Schools For Leader (Country)" 
+ #Country Upgrades
+ 
+ #NORMAL
+ industrial_school:0 "Go To School Of Industry"
+ engineer_school:0 "Go To School Of Engineering"
+ ecology_school:0 "Go To School Of Economy" 
+ oil_tycoon_school:0 "Go To School Of Fossil Fuel"
+ science_school:0 "Go To School Of Science"
+ endurance_training:0 "Go To Military Academy"
+ train_persuasiveness:0 "Go To School Of People's Communication"
+ read_about_reliability:0 "Go To School Of Good Manners"
+ scrapper_school:0"Go To School Of Scrapping"
+ secureness_school:0 "Go To School Of Security Studies"
+ resources_school:0"Go To School Of Hoarding"
+ fertility_school:0 "Go To School Of Anatomy"
+ puppet_master_school:0 "Go To Theater"
+ play_tetris:0 "Play Tetris"
+ 
+ #EASY
+ industrial_school_easy:0 "Go To School Of Industry"
+ engineer_school_easy:0 "Go To School Of Engineering"
+ ecology_school_easy:0 "Go To School Of Economy" 
+ oil_tycoon_school_easy:0 "Go To School Of Fossil Fuel"
+ science_school_easy:0 "Go To School Of Science"
+ endurance_training_easy:0 "Go To Military Academy"
+ train_persuasiveness_easy:0 "Go To School Of People's Communication"
+ read_about_reliability_easy:0 "Go To School Of Good Manners"
+ scrapper_school_easy:0"Go To School Of Scrapping"
+ secureness_school_easy:0 "Go To School Of Security Studies"
+ resources_school_easy:0"Go To School Of Hoarding"
+ fertility_school_easy:0 "Go To School Of Anatomy"
+ puppet_master_school_easy:0 "Go To Theater"
+ play_tetris_easy:0 "Play Tetris"
+ 
+ #REALISTIC
+ industrial_school_realistic:0 "Go To School Of Industry"
+ engineer_school_realistic:0 "Go To School Of Engineering"
+ ecology_school_realistic:0 "Go To School Of Economy" 
+ oil_tycoon_school_realistic:0 "Go To School Of Fossil Fuel"
+ science_school_realistic:0 "Go To School Of Science"
+ endurance_training_realistic:0 "Go To Military Academy"
+ train_persuasiveness_realistic:0 "Go To School Of People's Communication"
+ read_about_reliability_realistic:0 "Go To School Of Good Manners"
+ scrapper_school_realistic:0"Go To School Of Scrapping"
+ resources_school_realistic:0"Go To School Of Hoarding"
+ secureness_school_realistic:0 "Go To School Of Security Studies"
+ fertility_school_realistic:0 "Go To School Of Anatomy"
+ puppet_master_school_realistic:0 "Go To Theater"
+ play_tetris_realistic:0 "Play Tetris"
+ 
+ #CHEATS
+ industrial_school_cheats:0 "Go To School Of Industry"
+ engineer_school_cheats:0 "Go To School Of Engineering"
+ ecology_school_cheats:0 "Go To School Of Economy" 
+ oil_tycoon_school_cheats:0 "Go To School Of Fossil Fuel"
+ science_school_cheats:0 "Go To School Of Science"
+ endurance_training_cheats:0 "Go To Military Academy"
+ train_persuasiveness_cheats:0 "Go To School Of People's Communication"
+ read_about_reliability_cheats:0 "Go To School Of Good Manners"
+ scrapper_school_cheats:0"Go To School Of Scrapping"
+ secureness_school_cheats:0 "Go To School Of Security Studies"
+ resources_school_cheats:0"Go To School Of Hoarding"
+ fertility_school_cheats:0 "Go To School Of Anatomy"
+ puppet_master_school_cheats:0 "Go To Theater"
+ play_tetris_cheats:0 "Play Tetris"
+ 
+  #CHEATS_MAX
+ industrial_school_cheats_max:0 "Go To School Of Industry"
+ engineer_school_cheats_max:0 "Go To School Of Engineering"
+ ecology_school_cheats_max:0 "Go To School Of Economy" 
+ oil_tycoon_school_cheats_max:0 "Go To School Of Fossil Fuel"
+ science_school_cheats_max:0 "Go To School Of Science"
+ endurance_training_cheats_max:0 "Go To Military Academy"
+ train_persuasiveness_cheats_max:0 "Go To School Of People's Communication"
+ read_about_reliability_cheats_max:0 "Go To School Of Good Manners"
+ scrapper_school_cheats_max:0"Go To School Of Scrapping"
+ secureness_school_cheats_max:0 "Go To School Of Security Studies"
+ resources_school_cheats_max:0"Go To School Of Hoarding"
+ fertility_school_cheats_max:0 "Go To School Of Anatomy"
+ puppet_master_school_cheats_max:0 "Go To Theater"
+ play_tetris_cheats_max:0 "Play Tetris"
+ 
+ 
+ leaders_school_warfare_category:0 "Schools For Leader (Warfare)" 
+ #Warfare Upgrades
+ 
+ #NORMAL
+ warmonger_school:0 "Go To School of Psychology"
+ helper_school:0 "Go To Pioneers School"  
+ inventor_school:0 "Go To Developer School"
+ scavenger_school:0 "Go To Survival School"
+ commander_school:0 "Go To Command & Staff College"
+ recruiter_school:0 "Go To School Of Mobilization"
+ 
+ #EASY
+ warmonger_school_easy:0 "Go To School of Psychology"
+ helper_school_easy:0 "Go To Pioneers School"  
+ inventor_school_easy:0 "Go To Developer School"
+ scavenger_school_easy:0 "Go To Survival School"
+ commander_school_easy:0 "Go To Command & Staff College"
+ recruiter_school_easy:0 "Go To School Of Mobilization"
+ 
+ #REALISTIC
+ warmonger_school_realistic:0 "Go To School of Psychology"
+ helper_school_realistic:0 "Go To Pioneers School"  
+ inventor_school_realistic:0 "Go To Developer School"
+ scavenger_school_realistic:0 "Go To Survival School"
+ commander_school_realistic:0 "Go To Command & Staff College"
+ recruiter_school_realistic:0 "Go To School Of Mobilization"
+ 
+ #CHEATS
+ warmonger_school_cheats:0 "Go To School of Psychology"
+ helper_school_cheats:0 "Go To Pioneers School"  
+ inventor_school_cheats:0 "Go To Developer School"
+ scavenger_school_cheats:0 "Go To Survival School"
+ commander_school_cheats:0 "Go To Command & Staff College"
+ recruiter_school_cheats:0 "Go To School Of Mobilization"
+ 
+ #CHEATS_MAX
+ warmonger_school_cheats_max:0 "Go To School of Psychology"
+ helper_school_cheats_max:0 "Go To Pioneers School"  
+ inventor_school_cheats_max:0 "Go To Developer School"
+ scavenger_school_cheats_max:0 "Go To Survival School"
+ commander_school_cheats_max:0 "Go To Command & Staff College"
+ recruiter_school_cheats_max:0 "Go To School Of Mobilization"
+ 
+ leaders_school_army_category:0 "Schools For Leader (Army)" 
+ #Army Upgrades
+ 
+ #NORMAL
+ specialization_focus_school:0"Go To Academy Of Special Forces" 
+ adaptability_school:0"Go To School of Adaptability"
+ aggressiveness_school:0"Go To School Of Blitzkrieg"
+ anti_separatism_school:0"Go To Assimilation School"
+ land_air_education_school:0"Go To Land & Air Army Cooperation School"
+ defensiveness_school:0"Go To Guardsman School"
+ homeland_knowledge_school:0"Go To School Of Homeland Studies"
+ army_psychology_school:0"Go To School Of Psychological Warfare"
+ army_trainer_school:0"Go To School For Army Coaches"
+ supplier_school:0"Go To School Of Supply"
+ amphibious_school:0"Go To School of Amphibious Landing"
+ 
+ #EASY
+ specialization_focus_school_easy:0"Go To Academy Of Special Forces" 
+ adaptability_school_easy:0"Go To School of Adaptability"
+ aggressiveness_school_easy:0"Go To School Of Blitzkrieg"
+ anti_separatism_school_easy:0"Go To Assimilation School"
+ land_air_education_school_easy:0"Go To Land & Air Army Cooperation School"
+ defensiveness_school_easy:0"Go To Guardsman School"
+ homeland_knowledge_school_easy:0"Go To School Of Homeland Studies"
+ army_psychology_school_easy:0"Go To School Of Psychological Warfare"
+ army_trainer_school_easy:0"Go To School For Army Coaches"
+ supplier_school_easy:0"Go To School Of Supply"
+ amphibious_school_easy:0"Go To School of Amphibious Landing"
+ 
+ #REALISTIC
+ specialization_focus_school_realistic:0"Go To Academy Of Special Forces" 
+ adaptability_school_realistic:0"Go To School of Adaptability"
+ aggressiveness_school_realistic:0"Go To School Of Blitzkrieg"
+ anti_separatism_school_realistic:0"Go To Assimilation School"
+ land_air_education_school_realistic:0"Go To Land & Air Army Cooperation School"
+ defensiveness_school_realistic:0"Go To Guardsman School"
+ homeland_knowledge_school_realistic:0"Go To School Of Homeland Studies"
+ army_psychology_school_realistic:0"Go To School Of Psychological Warfare"
+ army_trainer_school_realistic:0"Go To School For Army Coaches"
+ supplier_school_realistic:0"Go To School Of Supply"
+ amphibious_school_realistic:0"Go To School of Amphibious Landing"
+ 
+ #CHEATS
+ specialization_focus_school_cheats:0"Go To Academy Of Special Forces" 
+ adaptability_school_cheats:0"Go To School of Adaptability"
+ aggressiveness_school_cheats:0"Go To School Of Blitzkrieg"
+ anti_separatism_school_cheats:0"Go To Assimilation School"
+ land_air_education_school_cheats:0"Go To Land & Air Army Cooperation School"
+ defensiveness_school_cheats:0"Go To Guardsman School"
+ homeland_knowledge_school_cheats:0"Go To School Of Homeland Studies"
+ army_psychology_school_cheats:0"Go To School Of Psychological Warfare"
+ army_trainer_school_cheats:0"Go To School For Army Coaches"
+ supplier_school_cheats:0"Go To School Of Supply"
+ amphibious_school_cheats:0"Go To School of Amphibious Landing"
+ 
+ 
+ #CHEATS_MAX
+ specialization_focus_school_cheats_max:0"Go To Academy Of Special Forces" 
+ adaptability_school_cheats_max:0"Go To School of Adaptability"
+ aggressiveness_school_cheats_max:0"Go To School Of Blitzkrieg"
+ anti_separatism_school_cheats_max:0"Go To Assimilation School"
+ land_air_education_school_cheats_max:0"Go To Land & Air Army Cooperation School"
+ defensiveness_school_cheats_max:0"Go To Guardsman School"
+ homeland_knowledge_school_cheats_max:0"Go To School Of Homeland Studies"
+ army_psychology_school_cheats_max:0"Go To School Of Psychological Warfare"
+ army_trainer_school_cheats_max:0"Go To School For Army Coaches"
+ supplier_school_cheats_max:0"Go To School Of Supply"
+ amphibious_school_cheats_max:0"Go To School of Amphibious Landing"
+ 
+ leaders_school_agency_category:0 "Schools For Leader (Agency)" 
+ #Agency Upgrades
+ 
+ #NORMAL
+ agents_quantity_school:0"Go To School Of Agents Quantity"
+ iron_curtain_school:0"Go To School Of Iron Curtain"
+ cryptography_school:0"Go To School Of Cryptography"
+ counter_agency_school:0"Go To School Of Counter Agency"
+ agents_training_school:0"Go To School Of Agents Training"
+ operations_quality_school:0"Go To School Of Operation Quality" 
+ 
+ #EASY
+ agents_quantity_school_easy:0"Go To School Of Agents Quantity"
+ iron_curtain_school_easy:0"Go To School Of Iron Curtain"
+ cryptography_school_easy:0"Go To School Of Cryptography"
+ counter_agency_school_easy:0"Go To School Of Counter Agency"
+ agents_training_school_easy:0"Go To School Of Agents Training"
+ operations_quality_school_easy:0"Go To School Of Operation Quality" 
+ #REALISTIC
+ agents_quantity_school_realistic:0"Go To School Of Agents Quantity"
+ iron_curtain_school_realistic:0"Go To School Of Iron Curtain"
+ cryptography_school_realistic:0"Go To School Of Cryptography"
+ counter_agency_school_realistic:0"Go To School Of Counter Agency"
+ agents_training_school_realistic:0"Go To School Of Agents Training"
+ operations_quality_school_realistic:0"Go To School Of Operation Quality" 
+ #CHEATS
+ agents_quantity_school_cheats:0"Go To School Of Agents Quantity"
+ iron_curtain_school_cheats:0"Go To School Of Iron Curtain"
+ cryptography_school_cheats:0"Go To School Of Cryptography"
+ counter_agency_school_cheats:0"Go To School Of Counter Agency"
+ agents_training_school_cheats:0"Go To School Of Agents Training"
+ operations_quality_school_cheats:0"Go To School Of Operation Quality" 
+ #CHEATS_MAX
+ agents_quantity_school_cheats_max:0"Go To School Of Agents Quantity"
+ iron_curtain_school_cheats_max:0"Go To School Of Iron Curtain"
+ cryptography_school_cheats_max:0"Go To School Of Cryptography"
+ counter_agency_school_cheats_max:0"Go To School Of Counter Agency"
+ agents_training_school_cheats_max:0"Go To School Of Agents Training"
+ operations_quality_school_cheats_max:0"Go To School Of Operation Quality" 
+ 
+ leaders_school_air_category:0 "Schools For Leader (Air)" 
+ #Air Upgrades
+ 
+ #NORMAL
+ flying_carefulness_school:0"Go To School of Flying Carefulness"
+ aviation_alloy_school:0"Go To School of Aviation Alloys"
+ avgas_efficiency_school:0"Go To School of Air Fuel"
+ bomber_precision_school:0"Go To School of Bombers"
+ #EASY
+ flying_carefulness_school_easy:0"Go To School of Flying Carefulness"
+ aviation_alloy_school_easy:0"Go To School of Aviation Alloys"
+ avgas_efficiency_school_easy:0"Go To School of Air Fuel"
+ bomber_precision_school_easy:0"Go To School of Bombers"
+ #REALISTIC
+ flying_carefulness_school_realistic:0"Go To School of Flying Carefulness"
+ aviation_alloy_school_realistic:0"Go To School of Aviation Alloys"
+ avgas_efficiency_school_realistic:0"Go To School of Air Fuel"
+ bomber_precision_school_realistic:0"Go To School of Bombers"
+ #CHEATS
+ flying_carefulness_school_cheats:0"Go To School of Flying Carefulness"
+ aviation_alloy_school_cheats:0"Go To School of Aviation Alloys"
+ avgas_efficiency_school_cheats:0"Go To School of Air Fuel"
+ bomber_precision_school_cheats:0"Go To School of Bombers"
+ #CHEATS_MAX
+ flying_carefulness_school_cheats_max:0"Go To School of Flying Carefulness"
+ aviation_alloy_school_cheats_max:0"Go To School of Aviation Alloys"
+ avgas_efficiency_school_cheats_max:0"Go To School of Air Fuel"
+ bomber_precision_school_cheats_max:0"Go To School of Bombers"
+ 
+ leaders_school_naval_category:0 "Schools For Leader (Naval)" 
+ #Naval Upgrades
+ 
+ #NORMAL
+ navy_engineers_school:0"Go To School of Naval Engineering"
+ convoys_practicality_school:0"Go To School of Convoy Management"
+ consolidated_fleet_school:0"Go To School of Army Fleet"
+ floating_airport_school:0"Go To School of Carriers"
+ promptitude_school:0"Go To School of Fleets Reflex"
+ fleets_diligence_school:0"Go To School of Fleets Diligence"
+ mine_usage_school:0"Play MineSweeper"
+ #EASY
+ navy_engineers_school_easy:0"Go To School of Naval Engineering"
+ convoys_practicality_school_easy:0"Go To School of Convoy Management"
+ consolidated_fleet_school_easy:0"Go To School of Army Fleet"
+ floating_airport_school_easy:0"Go To School of Carriers"
+ promptitude_school_easy:0"Go To School of Fleets Reflex"
+ fleets_diligence_school_easy:0"Go To School of Fleets Diligence"
+ mine_usage_school_easy:0"Play MineSweeper"
+ #REALISTIC
+ navy_engineers_school_realistic:0"Go To School of Naval Engineering"
+ convoys_practicality_school_realistic:0"Go To School of Convoy Management"
+ consolidated_fleet_school_realistic:0"Go To School of Army Fleet"
+ floating_airport_school_realistic:0"Go To School of Carriers"
+ promptitude_school_realistic:0"Go To School of Fleets Reflex"
+ fleets_diligence_school_realistic:0"Go To School of Fleets Diligence"
+ mine_usage_school_realistic:0"Play MineSweeper"
+ #CHEATS
+ navy_engineers_school_cheats:0"Go To School of Naval Engineering"
+ convoys_practicality_school_cheats:0"Go To School of Convoy Management"
+ consolidated_fleet_school_cheats:0"Go To School of Army Fleet"
+ floating_airport_school_cheats:0"Go To School of Carriers"
+ promptitude_school_cheats:0"Go To School of Fleets Reflex"
+ fleets_diligence_school_cheats:0"Go To School of Fleets Diligence"
+ mine_usage_school_cheats:0"Play MineSweeper"
+ #CHEATS_MAX
+ navy_engineers_school_cheats_max:0"Go To School of Naval Engineering"
+ convoys_practicality_school_cheats_max:0"Go To School of Convoy Management"
+ consolidated_fleet_school_cheats_max:0"Go To School of Army Fleet"
+ floating_airport_school_cheats_max:0"Go To School of Carriers"
+ promptitude_school_cheats_max:0"Go To School of Fleets Reflex"
+ fleets_diligence_school_cheats_max:0"Go To School of Fleets Diligence"
+ mine_usage_school_cheats_max:0"Play MineSweeper"
+ 

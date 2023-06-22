@@ -1,0 +1,51 @@
+﻿l_spanish:
+
+ leaders_school.1.t:0 "Tipo de juego"
+ leaders_school.1.d:0 "¿Qué tipo de juego estás jugando?"
+ leaders_school.1.a:0 "Un solo jugador"
+ leaders_school.1.b:0 "Multijugador"
+ 
+ leaders_school.2.t:0 "Tipo de jugador"
+ leaders_school.2.d:0 "¿Con quién estás jugando?"
+ leaders_school.2.a:0 "Anfitrión"
+ leaders_school.2.b:0 "Invitado"
+
+ leaders_school.3.t:0 "Configuración de la escuela líder"
+ leaders_school.3.d:0 "¿Quién podrá utilizar las decisiones de Leader School?"
+ leaders_school.3.a:0 "Todos"
+ leaders_school.3.b:0 "Nadie"
+ leaders_school.3.c:0 "Jugadores"
+ 
+ leaders_school.4.t:0 "Dificultad de la escuela líder"
+ leaders_school.4.d:0 "Qué tan difícil será obtener ciertos rasgos(JUGADOR)"
+ leaders_school.4.a:0 "Fácil"
+ leaders_school.4.b:0 "Normal"
+ leaders_school.4.c:0 "Realista" 
+ leaders_school.4.e:0 "Trucos"
+ 
+ leaders_school.5.t:0 "Dificultad de la escuela líder"
+ leaders_school.5.d:0 "Qué tan difícil será obtener ciertos rasgos(AI)"
+ leaders_school.5.a:0 "Fácil"
+ leaders_school.5.b:0 "Normal"
+ leaders_school.5.c:0 "Realista" 
+ leaders_school.5.e:0 "Trucos"
+
+ leaders_school.6.t:0 "Tipos de trucos(JUGADOR)"
+ leaders_school.6.d:0 "Qué tipo de trucos desea implementar en las decisiones de los juegos."
+ leaders_school.6.a:0 "Trucos NIVEL MAX"
+ leaders_school.6.b:0 "Trucos"
+ 
+ leaders_school.7.t:0 "Tipos de trucos (AI)"
+ leaders_school.7.d:0 "Qué tipo de trucos desea implementar en las decisiones de los juegos."
+ leaders_school.7.a:0 "Trucos NIVEL MAX"
+ leaders_school.7.b:0 "Trucos"
+  
+ leaders_school.8.t:0 "Notificaciones de la escuela líder"
+ leaders_school.8.d:0 "¿Desea recibir una notificación cada vez que su líder termine de estudiar en forma de evento."
+ leaders_school.8.a:0 "sí"
+ leaders_school.8.b:0 "No"
+ 
+ leaders_school.9.t:0 "Tu lider graduado"
+ leaders_school.9.d:0 "Esta es solo una notificación molesta para hacerle saber que su líder se graduó."
+ leaders_school.9.a:0 "Finalmente"
+ 

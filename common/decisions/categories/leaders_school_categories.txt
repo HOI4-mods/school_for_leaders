@@ -1,0 +1,87 @@
+	leaders_school_country_category = {	
+	priority =999
+	icon = GFX_country_category_icon	
+	
+	allowed = {
+		always = yes
+	}
+	visible = {
+		OR = {	
+			has_country_flag=leaders_school_ai	
+			has_country_flag=leaders_school_player
+			}
+		}
+	}
+	
+	leaders_school_warfare_category = {	
+	priority =998
+	icon = GFX_warfare_category_icon	
+	
+	allowed = {
+		always = yes
+	}
+	visible = {
+		OR = {
+			has_country_flag=leaders_school_ai
+			has_country_flag=leaders_school_player
+			}
+		}
+	}
+	
+	leaders_school_army_category = {	
+	priority =997
+	icon = GFX_army_category_icon	
+	
+	allowed = {
+		always = yes
+	}
+	visible = {
+		OR = {
+			has_country_flag=leaders_school_ai
+			has_country_flag=leaders_school_player
+			}
+		}
+	}
+	
+	leaders_school_agency_category = {	
+	priority =996
+	icon = GFX_agency_category_icon	
+	
+	allowed = {
+		always = yes
+	}
+	visible = {
+		OR = {
+			has_country_flag=leaders_school_ai
+			has_country_flag=leaders_school_player
+			}
+		}
+	}
+	leaders_school_air_category = {	
+	priority =995
+	icon = GFX_agency_air_icon	
+	
+	allowed = {
+		always = yes
+	}
+	visible = {
+		OR = {
+			has_country_flag=leaders_school_ai
+			has_country_flag=leaders_school_player
+			}
+		}
+	}
+	leaders_school_naval_category = {	
+	priority =995
+	icon = GFX_agency_naval_icon	
+	
+	allowed = {
+		always = yes
+	}
+	visible = {
+		OR = {
+			has_country_flag=leaders_school_ai
+			has_country_flag=leaders_school_player
+			}
+		}
+	}

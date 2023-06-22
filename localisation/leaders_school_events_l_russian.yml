@@ -1,0 +1,59 @@
+﻿l_russian:
+ 
+ leaders_school.1.t:0 "Type of Game"
+ leaders_school.1.d:0 "What type of game are you playing?"
+ leaders_school.1.a:0 "Singleplayer"
+ leaders_school.1.b:0 "Multiplayer"
+ 
+ leaders_school.2.t:0 "Type of player"
+ leaders_school.2.d:0 "Who are you playing as?"
+ leaders_school.2.a:0 "Host"
+ leaders_school.2.b:0 "Guest"
+ 
+ leaders_school.3.t:0 "Leader School Settings"
+ leaders_school.3.d:0 "Who will be able to use Leader School decisions?"
+ leaders_school.3.a:0 "Everyone"
+ leaders_school.3.b:0 "No one"
+ leaders_school.3.c:0 "Players"
+ 
+ leaders_school.4.t:0 "Leader School Difficulty"
+ leaders_school.4.d:0 "How hard it will be to get certain traits (PLAYER)"
+ leaders_school.4.a:0 "Easy"
+ leaders_school.4.b:0 "Normal"
+ leaders_school.4.c:0 "Realistic" 
+ leaders_school.4.e:0 "Cheats"
+ 
+ leaders_school.5.t:0 "Leader School Difficulty"
+ leaders_school.5.d:0 "How hard it will be to get certain traits (AI)"
+ leaders_school.5.a:0 "Easy"
+ leaders_school.5.b:0 "Normal"
+ leaders_school.5.c:0 "Realistic" 
+ leaders_school.5.e:0 "Cheats"
+ 
+ leaders_school.6.t:0 "Types of Cheats(PLAYER)"
+ leaders_school.6.d:0 "What Type of Cheats you want to implement in to the games decisions."
+ leaders_school.6.a:0 "Cheats MAX LEVEL"
+ leaders_school.6.b:0 "Cheats"
+ 
+ leaders_school.7.t:0 "Types of Cheats(AI)"
+ leaders_school.7.d:0 "What Type of Cheats you want to implement in to the games decisions."
+ leaders_school.7.a:0 "Cheats MAX LEVEL"
+ leaders_school.7.b:0 "Cheats"
+ 
+ leaders_school.8.t:0 "Leader School Notifications"
+ leaders_school.8.d:0 "Do you want notification every time your leader is done with studying in form of event."
+ leaders_school.8.a:0 "Yes"
+ leaders_school.8.b:0 "No"
+ 
+ leaders_school.9.t:0 "Your Leader Graduated"
+ leaders_school.9.d:0 "This is just a annoying notification to let you know that your leader graduated."
+ leaders_school.9.a:0 "Finally"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

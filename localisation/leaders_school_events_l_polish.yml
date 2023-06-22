@@ -1,0 +1,52 @@
+﻿l_polish:
+
+ leaders_school.1.t:0 "Rodzaj gry"
+ leaders_school.1.d:0 "W jaki rodzaj gry grasz?"
+ leaders_school.1.a:0 "Jeden gracz"
+ leaders_school.1.b:0 "Tryb wieloosobowy"
+ 
+ leaders_school.2.t:0 "Typ gracza"
+ leaders_school.2.d:0 "W kogo grasz?"
+ leaders_school.2.a:0 "Gospodarz"
+ leaders_school.2.b:0 "Gość"
+
+ leaders_school.3.t:0 "Ustawienia Szkoły Lidera"
+ leaders_school.3.d:0 "Kto będzie mógł korzystać z decyzji Szkoły Lidera?"
+ leaders_school.3.a:0 "Wszyscy"
+ leaders_school.3.b:0 "Nikt"
+ leaders_school.3.c:0 "Gracze"
+ 
+ leaders_school.4.t:0 "Poziom Trudności Szkoły Lidera"
+ leaders_school.4.d:0 "Jak trudno będzie uzyskać pewne cechy(Gracz)"
+ leaders_school.4.a:0 "Łatwo"
+ leaders_school.4.b:0 "Normalna"
+ leaders_school.4.c:0 "Realistyczny" 
+ leaders_school.4.e:0 "Kody"
+
+ leaders_school.5.t:0 "Poziom Trudności Szkoły Lidera"
+ leaders_school.5.d:0 "Jak trudno będzie uzyskać pewne cechy(AI)"
+ leaders_school.5.a:0 "Łatwo"
+ leaders_school.5.b:0 "Normalna"
+ leaders_school.5.c:0 "Realistyczny" 
+ leaders_school.5.e:0 "Kody"
+
+ leaders_school.6.t:0 "Rodzaje kodów(Gracz)"
+ leaders_school.6.d:0 "Jaki rodzaj kodów chcesz wprowadzić do decyzji dotyczących gier."
+ leaders_school.6.a:0 "Kody MAX POZIOM"
+ leaders_school.6.b:0 "Kody"
+ 
+ leaders_school.7.t:0 "Rodzaje kodów (AI)"
+ leaders_school.7.d:0 "Jaki rodzaj kodów chcesz wprowadzić do decyzji dotyczących gier."
+ leaders_school.7.a:0 "Kody MAX POZIOM"
+ leaders_school.7.b:0 "Kody" 
+ 
+ leaders_school.8.t:0 "Powiadomienia Lidera Szkoły"
+ leaders_school.8.d:0 "Czy chcesz otrzymywać powiadomienia za każdym razem, gdy Twój lider kończy naukę w formie wydarzenia."
+ leaders_school.8.a:0 "Tak"
+ leaders_school.8.b:0 "Nie"
+ 
+ leaders_school.9.t:0 "Twój Lider Ukończył "
+ leaders_school.9.d:0 "To tylko irytujące powiadomienie, które informuje, że Twój lider ukończył szkołę."
+ leaders_school.9.a:0 "Wreszcie"
+ 
+ 

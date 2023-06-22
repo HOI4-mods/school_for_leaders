@@ -1,0 +1,58 @@
+﻿l_french:
+
+ leaders_school.1.t:0 "Type de jeu"
+ leaders_school.1.d:0 "À quel type de jeu jouez-vous ?"
+ leaders_school.1.a:0 "Solo"
+ leaders_school.1.b:0 "Multijoueur"
+ 
+ leaders_school.2.t:0 "Type de joueur"
+ leaders_school.2.d:0 "Avec qui joues-tu ?"
+ leaders_school.2.a:0 "Hôte"
+ leaders_school.2.b:0 "Invité"
+
+ leaders_school.3.t:0 "Paramètres de l'école du leader"
+ leaders_school.3.d:0 "Qui pourra utiliser les décisions de la Leader School ?"
+ leaders_school.3.a:0 "Toutes les personnes"
+ leaders_school.3.b:0 "Personne"
+ leaders_school.3.c:0 "Joueurs"
+ 
+ leaders_school.4.t:0 "Dirigeant Difficulté Scolaire"
+ leaders_school.4.d:0 "À quel point il sera difficile d'obtenir certains traits(Joueur)"
+ leaders_school.4.a:0 "Facile"
+ leaders_school.4.b:0 "Normal"
+ leaders_school.4.c:0 "Réaliste" 
+ leaders_school.4.e:0 "Astuces"
+ 
+ leaders_school.5.t:0 "Dirigeant Difficulté Scolaire"
+ leaders_school.5.d:0 "Comme il sera difficile d'acquérir certaines qualités(AI)"
+ leaders_school.5.a:0 "Facile"
+ leaders_school.5.b:0 "Normal"
+ leaders_school.5.c:0 "Réaliste" 
+ leaders_school.5.e:0 "Astuces"
+ 
+ leaders_school.6.t:0 "Types de triche (Joueur)"
+ leaders_school.6.d:0 "Quel type de triche vous souhaitez implémenter dans les décisions de jeux."
+ leaders_school.6.a:0 "Astuces MAX NIVEAU"
+ leaders_school.6.b:0 "Astuces"
+ 
+ leaders_school.7.t:0 "Types de triche (AI)"
+ leaders_school.7.d:0 "Quel type de triche vous souhaitez implémenter dans les décisions de jeux."
+ leaders_school.7.a:0 "Astuces MAX NIVEAU"
+ leaders_school.7.b:0 "Astuces"
+ 
+ leaders_school.8.t:0 "Notifications de l'école leader"
+ leaders_school.8.d:0 "Voulez-vous une notification chaque fois que votre leader a terminé ses études sous forme d'événement."
+ leaders_school.8.a:0 "Oui"
+ leaders_school.8.b:0 "Non" 
+ 
+ leaders_school.9.t:0 "Votre leader est diplômé"
+ leaders_school.9.d:0 "Ceci est juste une notification ennuyeuse pour vous faire savoir que votre chef a obtenu son diplôme."
+ leaders_school.9.a:0 "Finalement"
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

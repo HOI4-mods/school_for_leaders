@@ -1,0 +1,2835 @@
+leader_traits = {
+	
+	#ENGINEER BUILDING/REPAIR SPEED	
+	engineer_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}			
+			production_speed_buildings_factor		= 0.1
+			industry_repair_factor  				= 0.1
+			
+	}
+	engineer_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			production_speed_buildings_factor		= 0.2
+			industry_repair_factor  				= 0.2
+		
+	}
+	engineer_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			production_speed_buildings_factor		= 0.3
+			industry_repair_factor  				= 0.3
+			
+	}
+	engineer_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			production_speed_buildings_factor		= 0.4
+			industry_repair_factor  				= 0.4
+			
+		
+	} 
+	engineer_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			production_speed_buildings_factor		= 0.5
+			industry_repair_factor  				= 0.5
+		
+	}
+	engineer_VI = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			production_speed_buildings_factor		= 0.6
+			industry_repair_factor  				= 0.6
+		
+	}
+	engineer_VII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			production_speed_buildings_factor		= 0.7
+			industry_repair_factor  				= 0.7
+		
+	}
+	engineer_VIII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			production_speed_buildings_factor		= 0.8
+			industry_repair_factor  				= 0.8
+		
+	}
+	engineer_IX = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			production_speed_buildings_factor		= 0.9
+			industry_repair_factor  				= 0.9
+		
+	}
+	engineer_X = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			production_speed_buildings_factor		= 1
+			industry_repair_factor  				= 1
+		
+	}
+	#ENGINEER BUILDING/REPAIR SPEED
+	
+	#ECOLOGIST CONSUMER GOODS	
+	ecologist_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			consumer_goods_factor = -0.05
+		
+	}
+	ecologist_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			consumer_goods_factor = -0.1
+		
+	}	
+	ecologist_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			consumer_goods_factor = -0.15
+		
+	}
+	ecologist_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			consumer_goods_factor = -0.2
+		
+	}
+	ecologist_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			consumer_goods_factor = -0.25
+		
+	}
+	ecologist_VI = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			consumer_goods_factor = -0.3
+		
+	}
+	ecologist_VII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			consumer_goods_factor = -0.35
+		
+	}
+	ecologist_VIII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			consumer_goods_factor = -0.4
+		
+	}
+	ecologist_IX = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			consumer_goods_factor = -0.45
+		
+	}
+	ecologist_X = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			consumer_goods_factor = -0.5
+		
+	}
+	#ECOLOGIST CONSUMER GOODS
+	
+	#COMPACTNESS BUILDING SLOTS	
+	compactness_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			global_building_slots_factor = 0.1
+		
+	}		
+	compactness_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			global_building_slots_factor = 0.2
+		
+	}	
+	compactness_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			global_building_slots_factor = 0.3
+		
+	}	
+	compactness_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			global_building_slots_factor = 0.4
+		
+	}		
+	compactness_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			global_building_slots_factor = 0.5
+		
+	}	
+	compactness_VI = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			global_building_slots_factor = 0.6
+		
+	}	
+	compactness_VII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			global_building_slots_factor = 0.7
+		
+	}	
+	compactness_VIII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			global_building_slots_factor = 0.8
+		
+	}
+	compactness_IX = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			global_building_slots_factor = 0.9
+		
+	}	
+	compactness_X = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			global_building_slots_factor = 1
+		
+	}	
+	#COMPACTNESS BUILDING SLOTS	
+	
+	#PRODUCTIVITY DOCKYARD/ FACTORY OUTPUT
+	productivity_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			industrial_capacity_dockyard = 0.1
+			industrial_capacity_factory = 0.1
+		
+	}		
+	productivity_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			industrial_capacity_dockyard = 0.2
+			industrial_capacity_factory = 0.2
+		
+	}	
+	productivity_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			industrial_capacity_dockyard = 0.3
+			industrial_capacity_factory = 0.3
+		
+	}	
+	productivity_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			industrial_capacity_dockyard = 0.4
+			industrial_capacity_factory = 0.4
+		
+	}	
+	productivity_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			industrial_capacity_dockyard = 0.5
+			industrial_capacity_factory = 0.5
+		
+	}	
+	productivity_VI = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			industrial_capacity_dockyard = 0.6
+			industrial_capacity_factory = 0.6
+		
+	}	
+	productivity_VII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			industrial_capacity_dockyard = 0.7
+			industrial_capacity_factory = 0.7
+		
+	}	
+	productivity_VIII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			industrial_capacity_dockyard = 0.8
+			industrial_capacity_factory = 0.8
+		
+	}	
+	productivity_IX = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			industrial_capacity_dockyard = 0.9
+			industrial_capacity_factory = 0.9
+		
+	}	
+	productivity_X = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			industrial_capacity_dockyard = 1
+			industrial_capacity_factory = 1
+		
+	}	
+	#PRODUCTIVITY DOCKYARD/ FACTORY OUTPUT
+	
+	#OIL MAGNATE FUEL MAX/GAIN	
+	oil_magnate_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			base_fuel_gain_factor = 0.1
+			max_fuel_factor = 0.1
+		
+	}		
+	oil_magnate_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			base_fuel_gain_factor = 0.2
+			max_fuel_factor = 0.2
+		
+	}		
+	oil_magnate_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			base_fuel_gain_factor = 0.3
+			max_fuel_factor = 0.3
+		
+	}		
+	oil_magnate_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			base_fuel_gain_factor = 0.4
+			max_fuel_factor = 0.4
+		
+	}
+	oil_magnate_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			base_fuel_gain_factor = 0.5
+			max_fuel_factor = 0.5
+		
+	}	
+	oil_magnate_VI = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			base_fuel_gain_factor = 0.6
+			max_fuel_factor = 0.6
+		
+	}	
+	oil_magnate_VII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			base_fuel_gain_factor = 0.7
+			max_fuel_factor = 0.7
+		
+	}	
+	oil_magnate_VIII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			base_fuel_gain_factor = 0.8
+			max_fuel_factor = 0.8
+		
+	}	
+	oil_magnate_IX = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			base_fuel_gain_factor = 0.9
+			max_fuel_factor = 0.9
+		
+	}	
+	oil_magnate_X = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			base_fuel_gain_factor = 1
+			max_fuel_factor = 1
+		
+	}	
+	#OIL MAGNATE FUEL MAX/GAIN
+	
+	#SCIENTIST RESEARCH SPEED
+	scientist_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			research_speed_factor=0.1
+		
+	}
+	scientist_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			research_speed_factor=0.2
+		
+	}
+	scientist_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			research_speed_factor=0.3
+		
+	}
+	scientist_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			research_speed_factor=0.4
+		
+	}
+	scientist_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			research_speed_factor=0.5
+		
+	}
+	scientist_VI = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			research_speed_factor=0.6
+		
+	}
+	scientist_VII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			research_speed_factor=0.7
+		
+	}
+	scientist_VIII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			research_speed_factor=0.8
+		
+	}
+	scientist_IX = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			research_speed_factor=0.9
+		
+	}	
+	scientist_X = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			research_speed_factor=1
+		
+	}	
+	#SCIENTIST RESEARCH SPEED
+	
+	#ENDURACE SURRENDER LIMIT
+	endurance_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+		surrender_limit=1
+		max_surrender_limit_offset=0.15
+		
+	}
+	endurance_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+		surrender_limit=1
+		max_surrender_limit_offset=0.10
+		
+	}
+	endurance_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+		surrender_limit=1
+		max_surrender_limit_offset=0.08
+		
+	}
+	endurance_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+		surrender_limit=1
+		max_surrender_limit_offset=0.05
+		
+	}	
+	#ENDURACE SURRENDER LIMIT
+	
+	#PERSUASIVENESS POLITICAL POWER GAIN
+	persuasiveness_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+		political_power_factor=0.15
+		political_power_gain=0.2
+	}
+	persuasiveness_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+		political_power_factor=0.25
+		political_power_gain=0.4
+	}
+	persuasiveness_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+		political_power_factor=0.4
+		political_power_gain=0.6
+	}
+	persuasiveness_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+		political_power_factor=0.55
+		political_power_gain=0.8
+	}
+	persuasiveness_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+		political_power_factor=0.75
+		political_power_gain=1
+	}
+	persuasiveness_VI = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+		political_power_factor=0.85
+		political_power_gain=1.2
+	}
+	persuasiveness_VII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+		political_power_factor=0.95
+		political_power_gain=1.4
+	}
+	persuasiveness_VIII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+		political_power_factor=1.15
+		political_power_gain=1.6
+	}
+	persuasiveness_IX = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+		political_power_factor=1.35
+		political_power_gain=1.8
+	}
+	persuasiveness_X = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+		political_power_factor=1.5
+		political_power_gain=2
+	}
+	#PERSUASIVENESS POLITICAL POWER GAIN
+	
+	#RELIABILITY WEEKLY STABILITY 
+	reliability_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			stability_weekly=0.001
+	}
+	reliability_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			stability_weekly=0.005
+	}
+	reliability_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			stability_weekly=0.01
+	}	
+	reliability_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			stability_weekly=0.015
+	}
+	reliability_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			stability_weekly=0.02
+	}
+	#RELIABILITY WEEKLY STABILITY 
+	
+	#SECURENESS WEEKLY WAR SUPPORT 
+	secureness_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			war_support_weekly=0.001
+	}
+	secureness_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			war_support_weekly=0.005
+	}
+	secureness_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			war_support_weekly=0.01
+	}	
+	secureness_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			war_support_weekly=0.015
+	}	
+	secureness_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			war_support_weekly=0.02
+	}	
+	#SECURENESS WEEKLY WAR SUPPORT 
+	
+	#WARMONGER JUSTIFY WAR GOAL TIME 
+	warmonger_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			justify_war_goal_time=-0.2
+	}	
+	warmonger_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			justify_war_goal_time=-0.3
+	}	
+	warmonger_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			justify_war_goal_time=-0.4
+	}	
+	warmonger_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			justify_war_goal_time=-0.5
+	}	
+	warmonger_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			justify_war_goal_time=-0.6
+	}	
+	warmonger_VI = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			justify_war_goal_time=-0.8
+	}
+	warmonger_VII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}		
+			justify_war_goal_time=-1
+	}
+	#WARMONGER JUSTIFY WAR GOAL TIME 
+		
+	#HELPER SEND VOLUNTEER
+	helper_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			send_volunteer_factor=0.1
+			air_volunteer_cap=10
+			send_volunteer_size=3
+		
+	}		
+	helper_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			send_volunteer_factor=0.2
+			air_volunteer_cap=100
+			send_volunteer_size=6
+		
+	}		
+	helper_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			send_volunteer_factor=0.3
+			air_volunteer_cap=200
+			send_volunteer_size=12
+		
+	}		
+	helper_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			send_volunteer_factor=0.5
+			air_volunteer_cap=500
+			send_volunteer_size=14
+		
+	}		
+	#HELPER SEND VOLUNTEER
+	
+	#FERTILITY MONTHLY POPULATION
+	fertility_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			monthly_population=0.2
+		
+	}		
+	fertility_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			monthly_population=0.4
+		
+	}		
+	fertility_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			monthly_population=0.8
+		
+	}		
+	fertility_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			monthly_population=1.2
+		
+	}		
+	#FERTILITY MONTHLY POPULATION
+	
+	#SCAVENGER EQ CAPTURE RATE
+	scavenger_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			equipment_capture=0.2
+		
+	}		
+	scavenger_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			equipment_capture=0.4
+		
+	}		
+	scavenger_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			equipment_capture=0.6
+		
+	}		
+	scavenger_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			equipment_capture=0.8
+		
+	}		
+	#SCAVENGER EQ CAPTURE RATE
+	
+	#INVENTOR EQ UPGRADE XP COST
+	inventor_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			equipment_upgrade_xp_cost=-0.1
+		
+	}		
+	inventor_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			equipment_upgrade_xp_cost=-0.2
+		
+	}		
+	inventor_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			equipment_upgrade_xp_cost=-0.25
+		
+	}		
+	inventor_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			equipment_upgrade_xp_cost=-0.35
+		
+	}		
+	inventor_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			equipment_upgrade_xp_cost=-0.4
+		
+	}		
+	inventor_VI = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			equipment_upgrade_xp_cost=-0.45
+		
+	}		
+	inventor_VII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			equipment_upgrade_xp_cost=-0.55
+		
+	}		
+	inventor_VIII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			equipment_upgrade_xp_cost=-0.6
+		
+	}		
+	inventor_IX = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			equipment_upgrade_xp_cost=-0.65
+		
+	}		
+	inventor_X = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			equipment_upgrade_xp_cost=-0.8
+		
+	}		
+	#INVENTOR EQ UPGRADE XP COST
+		
+	#COMMANDER CMD POWER GAIN
+	commander_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			command_power_gain_mult=0.15
+		
+	}		
+	commander_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			command_power_gain_mult=0.25
+		
+	}		
+	commander_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			command_power_gain_mult=0.35
+		
+	}		
+	commander_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			command_power_gain_mult=0.4
+			max_command_power_mult=0.5
+		
+	}		
+	commander_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			command_power_gain_mult=0.45
+			max_command_power_mult=0.5
+		
+	}	
+	commander_VI = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			command_power_gain_mult=0.5
+			max_command_power_mult=1
+		
+	}		
+	#COMMANDER CMD POWER GAIN
+	
+	#RECRUITER WEEKLY MANPOWER CONSCRIPTION
+	recruiter_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			conscription=0.01
+	}		
+	recruiter_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			conscription=0.02
+	}		
+	recruiter_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			conscription=0.06
+	}		
+	recruiter_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			conscription=0.08
+		
+	}		
+	recruiter_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			conscription=0.1
+			weekly_manpower=2500
+		
+	}
+	#RECRUITER WEEKLY MANPOWER CONSCRIPTION
+	
+	#PUPPET MASTER PUPPETING COST SUBJECT AUTONOMY
+	puppet_master_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}			
+			puppet_cost_factor=-0.15
+			subjects_autonomy_gain=-1
+			autonomy_gain=1
+	}		
+	
+	puppet_master_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			puppet_cost_factor=-0.3
+			subjects_autonomy_gain=-2
+			autonomy_gain=2
+	}		
+	
+	puppet_master_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			puppet_cost_factor=-0.45
+			subjects_autonomy_gain=-4
+			autonomy_gain=4
+	}		
+	
+	puppet_master_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			puppet_cost_factor=-0.6
+			subjects_autonomy_gain=-6
+			autonomy_gain=6		
+	}		
+	
+	puppet_master_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			puppet_cost_factor=-0.6
+			subjects_autonomy_gain=-10
+			autonomy_gain=10		
+	}
+	#PUPPET MASTER PUPPETING COST SUBJECT AUTONOMY
+		
+	#SPECIALIZATION FOCUS CAP OUT OF SUPPLY TRAIN TIME
+	specialization_focus_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}			
+			special_forces_cap=0.2
+			special_forces_out_of_supply_factor=-0.1
+			special_forces_training_time_factor=-0.1
+	}		
+	specialization_focus_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			special_forces_cap=0.4
+			special_forces_out_of_supply_factor=-0.2
+			special_forces_training_time_factor=-0.2
+	}		
+	specialization_focus_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			special_forces_cap=0.6
+			special_forces_out_of_supply_factor=-0.3
+			special_forces_training_time_factor=-0.3
+	}		
+	specialization_focus_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			special_forces_cap=0.8
+			special_forces_out_of_supply_factor=-0.4
+			special_forces_training_time_factor=-0.4
+		
+	}		
+	specialization_focus_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			special_forces_cap=1
+			special_forces_out_of_supply_factor=-0.5
+			special_forces_training_time_factor=-0.5
+		
+	}
+	#SPECIALIZATION FOCUS CAP OUT OF SUPPLY TRAIN TIME
+	
+	#ADAPTABILITY TERRRAIN HEAT WINTER ATTRITION REDUCTION
+	adaptability_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			attrition=-0.04
+			terrain_penalty_reduction=0.1
+			winter_attrition_factor=-0.15
+			heat_attrition_factor=-0.15
+	}		
+	adaptability_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			attrition=-0.08
+			terrain_penalty_reduction=0.2
+			winter_attrition_factor=-0.3
+			heat_attrition_factor=-0.3
+	}		
+	adaptability_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			attrition=-0.12
+			terrain_penalty_reduction=0.3
+			winter_attrition_factor=-0.45
+			heat_attrition_factor=-0.45
+	}		
+	adaptability_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			attrition=-0.16
+			terrain_penalty_reduction=0.4
+			winter_attrition_factor=-0.6
+			heat_attrition_factor=-0.6		
+	}		
+	adaptability_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			attrition=-0.2
+			terrain_penalty_reduction=0.5
+			winter_attrition_factor=-0.75
+			heat_attrition_factor=-0.75		
+	}
+	#ADAPTABILITY TERRRAIN HEAT WINTER ATTRITION REDUCTION
+	
+	#LAND AIR EDUCATION CAS DAMAGE REDUCTION AIR SUPPERIORITY BONUS
+	land_air_education_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			air_superiority_bonus_in_combat=0.2
+			cas_damage_reduction=0.15
+		
+	}		
+	land_air_education_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			air_superiority_bonus_in_combat=0.4
+			cas_damage_reduction=0.3
+	}		
+	land_air_education_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			air_superiority_bonus_in_combat=0.6
+			cas_damage_reduction=0.45
+	}		
+	land_air_education_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			air_superiority_bonus_in_combat=0.8
+			cas_damage_reduction=0.6	
+	}		
+	#LAND AIR EDUCATION CAS DAMAGE REDUCTION AIR SUPPERIORITY BONUS
+	
+	#AGGRESIVENESS ATTACK BREAKTROUGHT SPEED
+	aggressiveness_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}			
+			army_attack_factor=0.05
+			breakthrough_factor=0.07
+			army_speed_factor=0.09
+	}		
+	aggressiveness_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_attack_factor=0.1
+			breakthrough_factor=0.14
+			army_speed_factor=0.18
+	}		
+	aggressiveness_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_attack_factor=0.15
+			breakthrough_factor=0.21
+			army_speed_factor=0.27
+	}		
+	aggressiveness_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_attack_factor=0.2
+			breakthrough_factor=0.28
+			army_speed_factor=0.36
+		
+	}		
+	aggressiveness_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_attack_factor=0.25
+			breakthrough_factor=0.35
+			army_speed_factor=0.45
+		
+	}
+	#AGGRESIVENESS ATTACK BREAKTROUGHT SPEED
+	
+	#DEFFENSIVENESS DEFENCE DIG IN SPEED MAX DIG
+	defensiveness_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_defence_factor=0.1
+			dig_in_speed_factor=0.2
+			max_dig_in_factor=0.15
+		
+	}		
+	defensiveness_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_defence_factor=0.2
+			dig_in_speed_factor=0.4
+			max_dig_in_factor=0.3
+		
+	}		
+	defensiveness_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_defence_factor=0.3
+			dig_in_speed_factor=0.6
+			max_dig_in_factor=0.45
+	}		
+	defensiveness_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_defence_factor=0.4
+			dig_in_speed_factor=0.8
+			max_dig_in_factor=0.6
+	}		
+	#DEFFENSIVENESS DEFENCE DIG IN SPEED MAX DIG
+	
+	#HOMELAND KNOWLEDGE CORE ATTACK DEFFENCE
+	homeland_knowledge_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_core_attack_factor=0.1
+			army_core_defence_factor=0.1
+		
+	}		
+	homeland_knowledge_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_core_attack_factor=0.2
+			army_core_defence_factor=0.2
+		
+	}		
+	homeland_knowledge_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_core_attack_factor=0.3
+			army_core_defence_factor=0.3
+	}		
+	homeland_knowledge_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_core_attack_factor=0.4
+			army_core_defence_factor=0.4
+	}		
+	#HOMELAND KNOWLEDGE CORE ATTACK DEFFENCE
+	
+	#ARMY PSYCHOLOGY MORALE REINFORCE RANTE ORG REGAIN
+	army_psychology_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_morale_factor=0.15
+			land_reinforce_rate=0.15
+			army_org_regain=0.1
+		
+	}		
+	army_psychology_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_morale_factor=0.3
+			land_reinforce_rate=0.3
+			army_org_regain=0.2
+		
+	}		
+	army_psychology_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_morale_factor=0.45
+			land_reinforce_rate=0.45
+			army_org_regain=0.3
+	}		
+	army_psychology_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			army_morale_factor=0.6
+			land_reinforce_rate=0.6
+			army_org_regain=0.4
+	}		
+	#ARMY PSYCHOLOGY MORALE REINFORCE RANTE ORG REGAIN
+	
+	#ARMY TRAINER XP LOSS MIN TRAIN XP GAIN
+	army_trainer_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			experience_loss_factor=-0.2
+			minimum_training_level=-0.1
+			experience_gain_army=0.5
+			experience_gain_air=0.3
+			experience_gain_navy=0.1
+		
+	}		
+	army_trainer_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			experience_loss_factor=-0.4
+			minimum_training_level=-0.2
+			experience_gain_army=1
+			experience_gain_air=0.6
+			experience_gain_navy=0.2
+		
+	}		
+	army_trainer_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			experience_loss_factor=-0.6
+			minimum_training_level=-0.3
+			experience_gain_army=1.5
+			experience_gain_air=0.9
+			experience_gain_navy=0.3
+	}		
+	army_trainer_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			experience_loss_factor=-0.8
+			minimum_training_level=-0.4			
+			experience_gain_army=2
+			experience_gain_air=1
+			experience_gain_navy=0.5
+	}		
+	#ARMY TRAINER XP LOSS MIN TRAIN XP GAIN
+	
+	#ANTI SEPARATISM COMPLIANCE GROWTH REQ GARRISON RESISTANCE GROWTH START COMPLIANCE
+	anti_separatism_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}			
+			compliance_growth=0.05
+			required_garrison_factor=-0.1
+			resistance_growth=-0.16
+			starting_compliance=0.05
+	}		
+	anti_separatism_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			compliance_growth=0.1
+			required_garrison_factor=-0.2
+			resistance_growth=-0.32
+			starting_compliance=0.1
+	}		
+	anti_separatism_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			compliance_growth=0.15
+			required_garrison_factor=-0.3
+			resistance_growth=-0.48
+			starting_compliance=0.15
+	}		
+	anti_separatism_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			compliance_growth=0.2
+			required_garrison_factor=-0.4
+			resistance_growth=-0.64
+			starting_compliance=0.2
+		
+	}		
+	anti_separatism_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			compliance_growth=0.25
+			required_garrison_factor=-0.5
+			resistance_growth=-0.8
+			starting_compliance=0.25
+		
+	}
+	#ANTI SEPARATISM COMPLIANCE GROWTH REQ GARRISON RESISTANCE GROWTH START COMPLIANCE
+	
+	#supplier supply factor
+	
+	supplier_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}			
+			supply_factor=0.06
+			supply_node_range=0.08
+			truck_attrition_factor=-0.1
+	}		
+	supplier_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			supply_factor=0.12
+			supply_node_range=0.12
+			truck_attrition_factor=-0.2
+	}		
+	supplier_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			supply_factor=0.25
+			supply_node_range=0.2
+			truck_attrition_factor=-0.4
+	}		
+	supplier_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			supply_factor=0.35
+			supply_node_range=0.4
+			truck_attrition_factor=-0.6
+	}		
+	supplier_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}
+			supply_factor=0.5
+			supply_node_range=0.6
+			truck_attrition_factor=-0.8
+	}
+	
+	#supplier supply factor
+	
+	
+	#agents quantity upgrade time new op slot & bonus
+	agents_quantity_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}	
+			agency_upgrade_time=-0.1
+			new_operative_slot_bonus=2
+			operative_slot=1
+	}	
+	agents_quantity_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}	
+			agency_upgrade_time=-0.2
+			new_operative_slot_bonus=3
+			operative_slot=2
+	}
+	agents_quantity_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}	
+			agency_upgrade_time=-0.3
+			new_operative_slot_bonus=4
+			operative_slot=3
+	}
+	agents_quantity_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}	
+			agency_upgrade_time=-0.4
+			new_operative_slot_bonus=5
+			operative_slot=4
+	}
+	agents_quantity_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}	
+			agency_upgrade_time=-0.5
+			new_operative_slot_bonus=6
+			operative_slot=5
+	}
+	agents_quantity_VI = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}	
+			agency_upgrade_time=-0.6
+			new_operative_slot_bonus=7
+			operative_slot=6
+	}
+	agents_quantity_VII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}	
+			agency_upgrade_time=-0.7
+			new_operative_slot_bonus=8
+			operative_slot=7
+	}
+	agents_quantity_VIII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}	
+			agency_upgrade_time=-0.8
+			new_operative_slot_bonus=9
+			operative_slot=8
+	}
+	agents_quantity_IX = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}	
+			agency_upgrade_time=-0.9
+			new_operative_slot_bonus=10
+			operative_slot=9
+	}
+	agents_quantity_X = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}	
+			agency_upgrade_time=-1
+			new_operative_slot_bonus=12
+			operative_slot=10
+	}
+
+	#agents quantity upgrade time new op slot & bonus
+	
+	#IRON CURTAIN INTEL TO OTHERS
+	iron_curtain_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}	
+			airforce_intel_to_others=-5
+			civilian_intel_to_others=-5
+			navy_intel_to_others=-5
+	}		
+	iron_curtain_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}	
+			airforce_intel_to_others=-10
+			civilian_intel_to_others=-10
+			navy_intel_to_others=-10
+	}
+	iron_curtain_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}	
+			airforce_intel_to_others=-15
+			civilian_intel_to_others=-15
+			navy_intel_to_others=-15
+	}
+	iron_curtain_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}	
+			airforce_intel_to_others=-20
+			civilian_intel_to_others=-20
+			navy_intel_to_others=-20
+	}
+	iron_curtain_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}	
+			airforce_intel_to_others=-25
+			civilian_intel_to_others=-25
+			navy_intel_to_others=-25
+	}
+	#IRON CURTAIN INTEL TO OTHERS
+	
+	#CRYPTOGRAPHY DECRY/ENCRY SPEED
+	cryptography_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			decryption_factor=0.1
+			encryption_factor=0.1
+	}	
+	cryptography_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			decryption_factor=0.2
+			encryption_factor=0.2
+	}	
+	cryptography_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			decryption_factor=0.3
+			encryption_factor=0.3
+	}	
+	cryptography_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			decryption_factor=0.4
+			encryption_factor=0.4
+	}	
+	cryptography_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			decryption_factor=0.5
+			encryption_factor=0.5
+	}	
+	#CRYPTOGRAPHY DECRY/ENCRY SPEED
+	
+	#COUNTER TERRORIST AGENCY 
+	
+	counter_agency_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			enemy_operative_detection_chance_factor=0.1
+
+			foreign_subversive_activites=-0.1
+
+	}
+	counter_agency_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			enemy_operative_detection_chance_factor=0.2
+			foreign_subversive_activites=-0.2
+
+	}
+	counter_agency_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			enemy_operative_detection_chance_factor=0.3
+			foreign_subversive_activites=-0.3
+
+	}
+	counter_agency_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			enemy_operative_detection_chance_factor=0.4
+			foreign_subversive_activites=-0.4
+
+	}
+	counter_agency_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			enemy_operative_detection_chance_factor=0.5
+			foreign_subversive_activites=-0.5
+
+	}
+	#COUNTER TERRORIST AGENCY
+	
+	#AGENT TRAINING gain capture time factor
+	
+	agents_training_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			intel_network_gain_factor=0.1
+			own_operative_capture_chance_factor=-0.1
+			own_operative_detection_chance_factor=-0.1
+			own_operative_harmed_time_factor=-0.1
+	}
+	agents_training_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			intel_network_gain_factor=0.2
+			own_operative_capture_chance_factor=-0.2
+			own_operative_detection_chance_factor=-0.2
+			own_operative_harmed_time_factor=-0.2
+	}
+	agents_training_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			intel_network_gain_factor=0.3
+			own_operative_capture_chance_factor=-0.3
+			own_operative_detection_chance_factor=-0.3
+			own_operative_harmed_time_factor=-0.3
+	}
+	agents_training_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			intel_network_gain_factor=0.4
+			own_operative_capture_chance_factor=-0.4
+			own_operative_detection_chance_factor=-0.4
+			own_operative_harmed_time_factor=-0.4
+	}
+	agents_training_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			intel_network_gain_factor=0.5
+			own_operative_capture_chance_factor=-0.5
+			own_operative_detection_chance_factor=-0.5
+			own_operative_harmed_time_factor=-0.5
+	}
+	
+	#AGENT TRAINING gain capture time factor
+	
+	#quality of operations
+	
+	operations_quality_I = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			operation_cost=-0.1
+			operation_outcome=0.1
+	}	
+	operations_quality_II = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			operation_cost=-0.2
+			operation_outcome=0.2
+	}		
+	operations_quality_III = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			operation_cost=-0.3
+			operation_outcome=0.3
+	}
+	operations_quality_IV = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			operation_cost=-0.4
+			operation_outcome=0.4
+	}
+	operations_quality_V = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			operation_cost=-0.5
+			operation_outcome=0.5
+	}	
+	operations_quality_VI = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			operation_cost=-0.6
+			operation_outcome=0.6
+	}	
+	operations_quality_VII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			operation_cost=-0.7
+			operation_outcome=0.7
+	}
+	operations_quality_VIII = {
+		random = no
+		ai_will_do = {
+			factor = 1
+			}				
+			operation_cost=-0.8
+			operation_outcome=0.8
+	}	
+	#quality of operations cost outcome risk
+	
+	#local_resources_factor	
+	quality_mining_I = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		local_resources_factor=0.1
+		min_export=-0.1
+	}	
+	#local_resources_factor	
+	
+	#local_resources_factor	
+	quality_mining_II = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		local_resources_factor=0.2
+		min_export=-0.2
+	}	
+	#local_resources_factor	
+		
+	#local_resources_factor	
+	quality_mining_III = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		local_resources_factor=0.3
+		min_export=-0.3
+	}	
+	#local_resources_factor	
+	
+	#local_resources_factor	
+	quality_mining_IV = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		local_resources_factor=0.4
+		min_export=-0.4
+	}	
+	#local_resources_factor	
+	
+	#local_resources_factor	
+	quality_mining_V = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		local_resources_factor=0.5
+		min_export=-0.5
+	}	
+	#local_resources_factor	
+	
+	#amphibious_invasion 	
+	amphibious_I = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		amphibious_invasion =0.05
+		amphibious_invasion_defence =0.1
+		invasion_preparation =-0.1
+		naval_invasion_capacity =5
+		naval_invasion_penalty =-0.1
+	}	
+	#amphibious_invasion 	
+	
+	#amphibious_invasion 	
+	amphibious_II = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		amphibious_invasion =0.1
+		amphibious_invasion_defence =0.15
+		invasion_preparation =-0.2
+		naval_invasion_capacity =7
+		naval_invasion_penalty =-0.15
+	}	
+	#amphibious_invasion 	
+		
+	#amphibious_invasion 	
+	amphibious_III = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		amphibious_invasion =0.2
+		amphibious_invasion_defence =0.3
+		invasion_preparation =-0.5
+		naval_invasion_capacity =10
+		naval_invasion_penalty =-0.3
+	}	
+	#amphibious_invasion 	
+	
+	#amphibious_invasion 	
+	amphibious_IV = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		amphibious_invasion =0.5
+		amphibious_invasion_defence =0.5
+		invasion_preparation =-0.6
+		naval_invasion_capacity =15
+		naval_invasion_penalty =-0.5
+	}	
+	#amphibious_invasion 	
+	
+	#amphibious_invasion 	
+	amphibious_V = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		amphibious_invasion =0.8
+		amphibious_invasion_defence =0.75
+		invasion_preparation =-0.80
+		naval_invasion_capacity =30
+		naval_invasion_penalty =-0.6
+	}	
+	#amphibious_invasion 
+	
+	#air_escort_efficiency 	
+	flying_carefulness_I = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_escort_efficiency =0.1
+		air_accidents_factor =-0.05
+		air_night_penalty =-0.05
+		air_weather_penalty=-0.1
+	}	
+	#air_escort_efficiency 	
+	
+	#air_escort_efficiency	
+	flying_carefulness_II = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_escort_efficiency =0.35
+		air_accidents_factor =-0.15
+		air_night_penalty =-0.15
+		air_weather_penalty=-0.2
+	}	
+	#air_escort_efficiency 	
+		
+	#air_escort_efficiency 	
+	flying_carefulness_III = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_escort_efficiency =0.6
+		air_accidents_factor =-0.3
+		air_night_penalty =-0.3
+		air_weather_penalty=-0.25
+	}	
+	#air_escort_efficiency 	
+	
+	#air_escort_efficiency 	
+	flying_carefulness_IV = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_escort_efficiency =0.7
+		air_accidents_factor =-0.4
+		air_night_penalty =-0.5
+		air_weather_penalty=-0.4
+	}	
+	#air_escort_efficiency 	
+	
+	#air_escort_efficiency 	
+	flying_carefulness_V = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_escort_efficiency =0.8
+		air_accidents_factor =-0.6
+		air_night_penalty =-0.8
+		air_weather_penalty=-0.5
+	}	
+	#air_escort_efficiency 	
+	
+	#air_defence_factor 	
+	aviation_alloy_I = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_defence_factor =0.04
+		air_agility_factor =0.05
+		air_detection =0.07
+	}	
+	#air_defence_factor 	
+	
+	#air_defence_factor	
+	aviation_alloy_II = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_defence_factor =0.12
+		air_agility_factor =0.10
+		air_detection =0.18
+	}	
+	#air_defence_factor 	
+		
+	#air_defence_factor 	
+	aviation_alloy_III = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_defence_factor =0.3
+		air_agility_factor =0.25
+		air_detection =0.3
+	}	
+	#air_defence_factor 	
+	
+	#air_defence_factor 	
+	aviation_alloy_IV = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_defence_factor =0.55
+		air_agility_factor =0.4
+		air_detection =0.45
+	}	
+	#air_defence_factor 	
+	
+	#air_defence_factor 	
+	aviation_alloy_V = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_defence_factor =0.7
+		air_agility_factor =0.5
+		air_detection =0.5
+	}	
+	#air_defence_factor 
+		
+	#air_fuel_consumption_factor 	
+	avgas_efficiency_I = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_fuel_consumption_factor =-0.2
+		air_maximum_speed_factor =0.1
+		air_range_factor =0.15
+	}	
+	#air_fuel_consumption_factor 	
+	
+	#air_fuel_consumption_factor	
+	avgas_efficiency_II = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_fuel_consumption_factor =-0.35
+		air_maximum_speed_factor =0.2
+		air_range_factor =0.3
+	}	
+	#air_fuel_consumption_factor 	
+		
+	#air_fuel_consumption_factor 	
+	avgas_efficiency_III = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_fuel_consumption_factor =-0.5
+		air_maximum_speed_factor =0.4
+		air_range_factor =0.40
+	}	
+	#air_fuel_consumption_factor 	
+	
+	#air_fuel_consumption_factor 	
+	avgas_efficiency_IV = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_fuel_consumption_factor =-0.6
+		air_maximum_speed_factor =0.6
+		air_range_factor =0.45
+	}	
+	#air_fuel_consumption_factor 	
+	
+	#air_fuel_consumption_factor 	
+	avgas_efficiency_V = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_fuel_consumption_factor =-0.75
+		air_maximum_speed_factor =0.6
+		air_range_factor =0.5
+	}	
+	#air_fuel_consumption_factor  
+	
+	#air_bombing_targetting  	
+	bomber_precision_I = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_bombing_targetting =0.15
+		air_strategic_bomber_bombing_factor =0.1
+		air_strategic_bomber_night_penalty =-0.1
+		strategic_bomb_visibility =-0.1
+	}	
+	#air_bombing_targetting  	
+	
+	#air_bombing_targetting 	
+	bomber_precision_II = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_bombing_targetting =0.30
+		air_strategic_bomber_bombing_factor =0.2
+		air_strategic_bomber_night_penalty =-0.2
+		strategic_bomb_visibility =-0.15
+	}	
+	#air_bombing_targetting  	
+		
+	#air_bombing_targetting  	
+	bomber_precision_III = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_bombing_targetting =0.45
+		air_strategic_bomber_bombing_factor =0.4
+		air_strategic_bomber_night_penalty =-0.3
+		strategic_bomb_visibility =-0.2
+	}	
+	#air_bombing_targetting  	
+	
+	#air_bombing_targetting  	
+	bomber_precision_IV = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_bombing_targetting =0.6
+		air_strategic_bomber_bombing_factor =0.6
+		air_strategic_bomber_night_penalty =-0.45
+		strategic_bomb_visibility =-0.3
+	}	
+	#air_bombing_targetting  	
+	
+	#air_bombing_targetting  	
+	bomber_precision_V = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		air_bombing_targetting =0.75
+		air_strategic_bomber_bombing_factor =0.8
+		air_strategic_bomber_night_penalty =-0.6
+		strategic_bomb_visibility =-0.4
+	}	
+	#air_bombing_targetting   
+	
+	#naval_accidents_chance    	
+	navy_engineers_I = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		critical_receive_chance =-0.1
+		naval_accidents_chance =-0.1
+		naval_attrition =-0.15
+	}	
+	#naval_accidents_chance    	
+	
+	#naval_accidents_chance   	
+	navy_engineers_II = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		critical_receive_chance =-0.2
+		naval_accidents_chance =-0.2
+		naval_attrition =-0.25
+	}	
+	#naval_accidents_chance   	
+		
+	#naval_accidents_chance   	
+	navy_engineers_III = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		critical_receive_chance =-0.3
+		naval_accidents_chance =-0.4
+		naval_attrition =-0.35
+	}	
+	#naval_accidents_chance   	
+	
+	#naval_accidents_chance   	
+	navy_engineers_IV = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		critical_receive_chance =-0.4
+		naval_accidents_chance =-0.6
+		naval_attrition =-0.45
+	}	
+	#naval_accidents_chance   	
+	
+	#naval_accidents_chance   	
+	navy_engineers_V = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		critical_receive_chance =-0.5
+		naval_accidents_chance =-0.8
+		naval_attrition =-0.6
+	}	
+	#naval_accidents_chance    
+	
+	#transport_capacity     	
+	convoys_practicality_I = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		transport_capacity =-0.1
+		convoy_retreat_speed =0.2
+		convoy_escort_efficiency =0.1
+	}	
+	#transport_capacity     	
+	
+	#transport_capacity    	
+	convoys_practicality_II = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		transport_capacity =-0.2
+		convoy_retreat_speed =0.35
+		convoy_escort_efficiency =0.3
+	}	
+	#transport_capacity    	
+		
+	#transport_capacity    	
+	convoys_practicality_III = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		transport_capacity =-0.3
+		convoy_retreat_speed =0.5
+		convoy_escort_efficiency =0.4
+	}	
+	#transport_capacity    	
+	
+	#transport_capacity    	
+	convoys_practicality_IV = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		transport_capacity =-0.4
+		convoy_retreat_speed =0.6
+		convoy_escort_efficiency =0.5
+	}	
+	#transport_capacity    	
+	
+	#transport_capacity    	
+	convoys_practicality_V = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		transport_capacity =-0.5
+		convoy_retreat_speed =0.8
+		convoy_escort_efficiency =0.6
+	}	
+	#transport_capacity   
+	
+	#naval_defense_factor     	
+	consolidated_fleet_I = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		naval_defense_factor =0.15
+		naval_morale_factor =0.2
+		naval_coordination =0.1
+
+	}	
+	#naval_defense_factor      	
+	
+	#naval_defense_factor     	
+	consolidated_fleet_II = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		naval_defense_factor =0.2
+		naval_morale_factor =0.25
+		naval_coordination =0.15
+	}	
+	#naval_defense_factor     	
+		
+	#naval_defense_factor     	
+	consolidated_fleet_III = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		naval_defense_factor =0.35
+		naval_morale_factor =0.3
+		naval_coordination =0.25
+
+	}	
+	#naval_defense_factor     	
+	
+	#naval_defense_factor     	
+	consolidated_fleet_IV = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		naval_defense_factor =0.5
+		naval_morale_factor =0.4
+		naval_coordination =0.3
+
+	}	
+	#naval_defense_factor     	
+	
+	#naval_defense_factor     	
+	consolidated_fleet_V = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		naval_defense_factor =0.6
+		naval_morale_factor =0.5
+		naval_coordination =0.4
+	}	
+	#naval_defense_factor    
+	
+	#sortie_efficiency      	
+	floating_airport_I = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		carrier_capacity_penalty_reduction =-0.1
+		sortie_efficiency =0.2
+		navy_carrier_air_agility_factor=0.15
+		navy_carrier_air_attack_factor =0.1
+		navy_carrier_air_targetting_factor =0.1
+
+	}	
+	#sortie_efficiency      	
+	
+	#sortie_efficiency     	
+	floating_airport_II = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		carrier_capacity_penalty_reduction =-0.2
+		sortie_efficiency =0.35
+		navy_carrier_air_agility_factor=0.25
+		navy_carrier_air_attack_factor =0.2
+		navy_carrier_air_targetting_factor =0.2
+
+	}	
+	#sortie_efficiency     	
+		
+	#sortie_efficiency     	
+	floating_airport_III = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		carrier_capacity_penalty_reduction =-0.4
+		sortie_efficiency =0.5
+		navy_carrier_air_agility_factor=0.4
+		navy_carrier_air_attack_factor =0.3
+		navy_carrier_air_targetting_factor =0.3
+
+	}	
+	#sortie_efficiency     	
+	
+	#sortie_efficiency     	
+	floating_airport_IV = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		carrier_capacity_penalty_reduction =-0.5
+		sortie_efficiency =0.6
+		navy_carrier_air_agility_factor=0.5
+		navy_carrier_air_attack_factor =0.35
+		navy_carrier_air_targetting_factor =0.45
+
+	}	
+	#sortie_efficiency     	
+	
+	#sortie_efficiency     	
+	floating_airport_V = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		carrier_capacity_penalty_reduction =-0.8
+		sortie_efficiency =0.75
+		navy_carrier_air_agility_factor=0.6
+		navy_carrier_air_attack_factor =0.4
+		navy_carrier_air_targetting_factor =0.5
+
+	}	
+	#sortie_efficiency    
+	
+	#mines_planting_by_fleets_factor      	
+	mine_usage_I = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		mines_planting_by_fleets_factor =0.15
+		mines_sweeping_by_fleets_factor =0.1
+		mines_planting_by_air_factor =0.1
+		mines_sweeping_by_air_factor =0.05
+	}	
+	#mines_planting_by_fleets_factor      	
+	
+	#mines_planting_by_fleets_factor     	
+	mine_usage_II = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		mines_planting_by_fleets_factor =0.25
+		mines_sweeping_by_fleets_factor =0.15
+		mines_planting_by_air_factor =0.2
+		mines_sweeping_by_air_factor =0.10
+	}	
+	#mines_planting_by_fleets_factor     	
+		
+	#mines_planting_by_fleets_factor     	
+	mine_usage_III = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		mines_planting_by_fleets_factor =0.3
+		mines_sweeping_by_fleets_factor =0.2
+		mines_planting_by_air_factor =0.25
+		mines_sweeping_by_air_factor =0.2
+	}	
+	#mines_planting_by_fleets_factor     	
+	
+	#mines_planting_by_fleets_factor     	
+	mine_usage_IV = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		mines_planting_by_fleets_factor =0.35
+		mines_sweeping_by_fleets_factor =0.4
+		mines_planting_by_air_factor =0.4
+		mines_sweeping_by_air_factor =0.3
+	}	
+	#mines_planting_by_fleets_factor     	
+	
+	#mines_planting_by_fleets_factor     	
+	mine_usage_V = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		mines_planting_by_fleets_factor =0.6
+		mines_sweeping_by_fleets_factor =0.5
+		mines_planting_by_air_factor =0.5
+		mines_sweeping_by_air_factor =0.4
+	}	
+	#mines_planting_by_fleets_factor    
+	
+	
+	#naval_accidents_chance     	
+	fleets_diligence_I = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		naval_accidents_chance=-0.15
+		naval_retreat_speed=0.1
+		convoy_retreat_speed=0.2
+		sub_retreat_speed=0.15
+		
+	}	
+	#naval_accidents_chance 
+	
+	#naval_accidents_chance     	
+	fleets_diligence_II = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		naval_accidents_chance=-0.25
+		naval_retreat_speed=0.2
+		convoy_retreat_speed=0.35
+		sub_retreat_speed=0.3
+		
+	}	
+	#naval_accidents_chance 
+
+	#naval_accidents_chance     	
+	fleets_diligence_III = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		naval_accidents_chance=-0.45
+		naval_retreat_speed=0.3
+		convoy_retreat_speed=0.4
+		sub_retreat_speed=0.4
+		
+	}	
+	#naval_accidents_chance 
+
+	#naval_accidents_chance     	
+	fleets_diligence_IV = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		naval_accidents_chance=-0.55
+		naval_retreat_speed=0.4
+		convoy_retreat_speed=0.6
+		sub_retreat_speed=0.5
+		
+	}	
+	#naval_accidents_chance 
+
+	#naval_accidents_chance     	
+	fleets_diligence_V = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+		naval_accidents_chance=-0.6
+		naval_retreat_speed=0.5
+		convoy_retreat_speed=0.75
+		sub_retreat_speed=0.6
+		
+	}	
+	#naval_accidents_chance 
+	
+	#navy_refit_speed     	
+	promptitude_I = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+	navy_refit_speed=0.15
+	repair_speed_factor=0.15
+	naval_speed_factor=0.1
+		
+	}	
+	#navy_refit_speed
+	
+	#navy_refit_speed     	
+	promptitude_II = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+	navy_refit_speed=0.3
+	repair_speed_factor=0.25
+	naval_speed_factor=0.2
+		
+	}	
+	#navy_refit_speed 
+	
+	#navy_refit_speed     	
+	promptitude_III = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+	navy_refit_speed=0.4
+	repair_speed_factor=0.35
+	naval_speed_factor=0.3
+		
+	}	
+	#navy_refit_speed 
+	
+	#navy_refit_speed     	
+	promptitude_IV = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+	navy_refit_speed=0.5
+	repair_speed_factor=0.45
+	naval_speed_factor=0.4
+		
+	}	
+	#navy_refit_speed 
+	
+	#navy_refit_speed     	
+	promptitude_V = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+	navy_refit_speed=0.75
+	repair_speed_factor=0.6
+	naval_speed_factor=0.5
+		
+	}	
+	#navy_refit_speed
+
+	#equipment_conversion_speed     	
+	scrapping_I = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+	equipment_conversion_speed=0.2
+	production_lack_of_resource_penalty_factor=-0.1
+	}	
+	#equipment_conversion_speed
+	
+	#equipment_conversion_speed     	
+	scrapping_II = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+	equipment_conversion_speed=0.4
+	production_lack_of_resource_penalty_factor=-0.25
+	}	
+	#equipment_conversion_speed
+	
+	#equipment_conversion_speed     	
+	scrapping_III = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+	equipment_conversion_speed=0.6
+	production_lack_of_resource_penalty_factor=-0.35
+	}	
+	#equipment_conversion_speed
+
+	#equipment_conversion_speed     	
+	scrapping_IV = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+	equipment_conversion_speed=0.7
+	production_lack_of_resource_penalty_factor=-0.45
+	}	
+	#equipment_conversion_speed
+	
+	#equipment_conversion_speed     	
+	scrapping_V = {
+		random = no
+		ai_will_do={
+			factor=1
+		}
+	equipment_conversion_speed=0.8
+	production_lack_of_resource_penalty_factor=-0.6
+	}	
+	#equipment_conversion_speed
+	
+	}

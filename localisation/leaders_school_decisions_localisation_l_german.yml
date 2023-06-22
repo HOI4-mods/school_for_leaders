@@ -1,0 +1,302 @@
+﻿l_german:
+ 
+ leaders_school_country_category:0 "Schulen für Führungskräfte (Land)" 
+ #Country Upgrades
+ 
+ #NORMAL
+ industrial_school:0 "Gehen Sie zur Industrieschule"
+ engineer_school:0 "Gehen Sie zur Ingenieurschule"
+ ecology_school:0 "Gehe zur Wirtschaftsschule" 
+ oil_tycoon_school:0 "Gehen Sie zur Schule für fossile Brennstoffe"
+ science_school:0 "Gehe zur Schule der Wissenschaften"
+ endurance_training:0 "Gehe zur Militärakademie"
+ train_persuasiveness:0 "Zur Schule für Volkskommunikation gehen"
+ read_about_reliability:0 "Gehen Sie zur Schule der guten Manieren"
+ secureness_school:0 "Gehen Sie zur Schule für Sicherheitsstudien"
+ resources_school:0"Gehe zur Schule des Hortens"
+ fertility_school:0 "Gehe zur Schule für Anatomie"
+ puppet_master_school:0 "Ins Theater gehen"
+ play_tetris:0 "Tetris spielen"
+  scrapper_school:0"Gehen Sie zur Schule des Verschrottens"
+ 
+ #EASY
+ industrial_school_easy:0 "Gehen Sie zur Industrieschule"
+ engineer_school_easy:0 "Gehen Sie zur Ingenieurschule"
+ ecology_school_easy:0 "Gehe zur Wirtschaftsschule" 
+ oil_tycoon_school_easy:0 "Gehen Sie zur Schule für fossile Brennstoffe"
+ science_school_easy:0 "Gehe zur Schule der Wissenschaften"
+ endurance_training_easy:0 "Gehe zur Militärakademie"
+ train_persuasiveness_easy:0 "Zur Schule für Volkskommunikation gehen"
+ read_about_reliability_easy:0 "Gehen Sie zur Schule der guten Manieren"
+ secureness_school_easy:0 "Gehen Sie zur Schule für Sicherheitsstudien"
+ resources_school_easy:0"Gehe zur Schule des Hortens"
+ fertility_school_easy:0 "Gehe zur Schule für Anatomie"
+ puppet_master_school_easy:0 "Ins Theater gehen"
+ play_tetris_easy:0 "Tetris spielen"
+  scrapper_school_easy:0"Gehen Sie zur Schule des Verschrottens"
+ 
+ #REALISTIC
+ industrial_school_realistic:0 "Gehen Sie zur Industrieschule"
+ engineer_school_realistic:0 "Gehen Sie zur Ingenieurschule"
+ ecology_school_realistic:0 "Gehe zur Wirtschaftsschule" 
+ oil_tycoon_school_realistic:0 "Gehen Sie zur Schule für fossile Brennstoffe"
+ science_school_realistic:0 "Gehe zur Schule der Wissenschaften"
+ endurance_training_realistic:0 "Gehe zur Militärakademie"
+ train_persuasiveness_realistic:0 "Zur Schule für Volkskommunikation gehen"
+ read_about_reliability_realistic:0 "Gehen Sie zur Schule der guten Manieren"
+ secureness_school_realistic:0 "Gehen Sie zur Schule für Sicherheitsstudien"
+ resources_school_realistic:0"Gehe zur Schule des Hortens"
+ fertility_school_realistic:0 "Gehe zur Schule für Anatomie"
+ puppet_master_school_realistic:0 "Ins Theater gehen"
+ play_tetris_realistic:0 "Tetris spielen"
+ scrapper_school_realistic:0"Gehen Sie zur Schule des Verschrottens"
+ 
+ #CHEATS
+ industrial_school_cheats:0 "Gehen Sie zur Industrieschule"
+ engineer_school_cheats:0 "Gehen Sie zur Ingenieurschule"
+ ecology_school_cheats:0 "Gehe zur Wirtschaftsschule" 
+ oil_tycoon_school_cheats:0 "Gehen Sie zur Schule für fossile Brennstoffe"
+ science_school_cheats:0 "Gehe zur Schule der Wissenschaften"
+ endurance_training_cheats:0 "Gehe zur Militärakademie"
+ train_persuasiveness_cheats:0 "Zur Schule für Volkskommunikation gehen"
+ read_about_reliability_cheats:0 "Gehen Sie zur Schule der guten Manieren"
+ secureness_school_cheats:0 "Gehen Sie zur Schule für Sicherheitsstudien"
+ resources_school_cheats:0"Gehe zur Schule des Hortens"
+ fertility_school_cheats:0 "Gehe zur Schule für Anatomie"
+ puppet_master_school_cheats:0 "Ins Theater gehen"
+ play_tetris_cheats:0 "Tetris spielen"
+ scrapper_school_cheats:0"Gehen Sie zur Schule des Verschrottens"
+  #CHEATS_MAX
+ industrial_school_cheats_max:0 "Gehen Sie zur Industrieschule"
+ engineer_school_cheats_max:0 "Gehen Sie zur Ingenieurschule"
+ ecology_school_cheats_max:0 "Gehe zur Wirtschaftsschule" 
+ oil_tycoon_school_cheats_max:0 "Gehen Sie zur Schule für fossile Brennstoffe"
+ science_school_cheats_max:0 "Gehe zur Schule der Wissenschaften"
+ endurance_training_cheats_max:0 "Gehe zur Militärakademie"
+ train_persuasiveness_cheats_max:0 "Zur Schule für Volkskommunikation gehen"
+ read_about_reliability_cheats_max:0 "Gehen Sie zur Schule der guten Manieren"
+ secureness_school_cheats_max:0 "Gehen Sie zur Schule für Sicherheitsstudien"
+ resources_school_cheats_max:0"Gehe zur Schule des Hortens"
+ fertility_school_cheats_max:0 "Gehe zur Schule für Anatomie"
+ puppet_master_school_cheats_max:0 "Ins Theater gehen"
+ play_tetris_cheats_max:0 "Tetris spielen"
+ scrapper_school_cheats_max:0"Gehen Sie zur Schule des Verschrottens"
+ 
+ 
+ leaders_school_warfare_category:0 "Schulen für Anführer (Kriegsführung)" 
+ #Warfare Upgrades
+ 
+ #NORMAL
+ warmonger_school:0 "Zur Schule für Psychologie gehen"
+ helper_school:0 "Gehe zur Pionierschule"  
+ inventor_school:0 "Zur Entwicklerschule gehen"
+ scavenger_school:0 "Gehe zur Überlebensschule"
+ commander_school:0 "Gehe zu Kommando und Stabshochschule"
+ recruiter_school:0 "Gehe zur Schule der Mobilisierung"
+ 
+ #EASY
+ warmonger_school_easy:0 "Zur Schule für Psychologie gehen"
+ helper_school_easy:0 "Gehe zur Pionierschule"  
+ inventor_school_easy:0 "Zur Entwicklerschule gehen"
+ scavenger_school_easy:0 "Gehe zur Überlebensschule"
+ commander_school_easy:0 "Gehe zu Kommando und Stabshochschule"
+ recruiter_school_easy:0 "Gehe zur Schule der Mobilisierung"
+ 
+ #REALISTIC
+ warmonger_school_realistic:0 "Zur Schule für Psychologie gehen"
+ helper_school_realistic:0 "Gehe zur Pionierschule"  
+ inventor_school_realistic:0 "Zur Entwicklerschule gehen"
+ scavenger_school_realistic:0 "Gehe zur Überlebensschule"
+ commander_school_realistic:0 "Gehe zu Kommando und Stabshochschule"
+ recruiter_school_realistic:0 "Gehe zur Schule der Mobilisierung"
+ 
+ #CHEATS
+ warmonger_school_cheats:0 "Zur Schule für Psychologie gehen"
+ helper_school_cheats:0 "Gehe zur Pionierschule"  
+ inventor_school_cheats:0 "Zur Entwicklerschule gehen"
+ scavenger_school_cheats:0 "Gehe zur Überlebensschule"
+ commander_school_cheats:0 "Gehe zu Kommando und Stabshochschule"
+ recruiter_school_cheats:0 "Gehe zur Schule der Mobilisierung"
+  #CHEATS_MAX
+ warmonger_school_cheats_max:0 "Zur Schule für Psychologie gehen"
+ helper_school_cheats_max:0 "Gehe zur Pionierschule"  
+ inventor_school_cheats_max:0 "Zur Entwicklerschule gehen"
+ scavenger_school_cheats_max:0 "Gehe zur Überlebensschule"
+ commander_school_cheats_max:0 "Gehe zu Kommando und Stabshochschule"
+ recruiter_school_cheats_max:0 "Gehe zur Schule der Mobilisierung"
+ 
+ leaders_school_army_category:0 "Schulen für Führer (Armee)" 
+ #Army Upgrades
+ 
+ #NORMAL
+ specialization_focus_school:0"Gehe zur Akademie der Spezialeinheiten" 
+ adaptability_school:0"Gehe zur Schule der Anpassungsfähigkeit"
+ aggressiveness_school:0"Gehe zur Schule des Blitzkriegs"
+ anti_separatism_school:0"Gehe zur Assimilationsschule"
+ land_air_education_school:0"Gehe zur Schule für die Zusammenarbeit der Land und Luftarmee"
+ defensiveness_school:0"Gehe zur Gardistenschule"
+ homeland_knowledge_school:0"Gehen Sie zur Schule für Heimatkunde"
+ army_psychology_school:0"Gehe zur Schule für psychologische Kriegsführung"
+ army_trainer_school:0"Gehe zur Schule für Armeetrainer"
+ amphibious_school:0"Gehen Sie zur Schule der amphibischen Landung"
+ 
+ #EASY
+ specialization_focus_school_easy:0"Gehe zur Akademie der Spezialeinheiten" 
+ adaptability_school_easy:0"Gehe zur Schule der Anpassungsfähigkeit"
+ aggressiveness_school_easy:0"Gehe zur Schule des Blitzkriegs"
+ anti_separatism_school_easy:0"Gehe zur Assimilationsschule"
+ land_air_education_school_easy:0"Gehe zur Schule für die Zusammenarbeit der Land und Luftarmee"
+ defensiveness_school_easy:0"Gehe zur Gardistenschule"
+ homeland_knowledge_school_easy:0"Gehen Sie zur Schule für Heimatkunde"
+ army_psychology_school_easy:0"Gehe zur Schule für psychologische Kriegsführung"
+ army_trainer_school_easy:0"Gehe zur Schule für Armeetrainer"
+ amphibious_school_easy:0"Gehen Sie zur Schule der amphibischen Landung"
+ 
+ #REALISTIC
+ specialization_focus_school_realistic:0"Gehe zur Akademie der Spezialeinheiten" 
+ adaptability_school_realistic:0"Gehe zur Schule der Anpassungsfähigkeit"
+ aggressiveness_school_realistic:0"Gehe zur Schule des Blitzkriegs"
+ anti_separatism_school_realistic:0"Gehe zur Assimilationsschule"
+ land_air_education_school_realistic:0"Gehe zur Schule für die Zusammenarbeit der Land und Luftarmee"
+ defensiveness_school_realistic:0"Gehe zur Gardistenschule"
+ homeland_knowledge_school_realistic:0"Gehen Sie zur Schule für Heimatkunde"
+ army_psychology_school_realistic:0"Gehe zur Schule für psychologische Kriegsführung"
+ army_trainer_school_realistic:0"Gehe zur Schule für Armeetrainer"
+ amphibious_school_realistic:0"Gehen Sie zur Schule der amphibischen Landung"
+ 
+ #CHEATS
+ specialization_focus_school_cheats:0"Gehe zur Akademie der Spezialeinheiten" 
+ adaptability_school_cheats:0"Gehe zur Schule der Anpassungsfähigkeit"
+ aggressiveness_school_cheats:0"Gehe zur Schule des Blitzkriegs"
+ anti_separatism_school_cheats:0"Gehe zur Assimilationsschule"
+ land_air_education_school_cheats:0"Gehe zur Schule für die Zusammenarbeit der Land und Luftarmee"
+ defensiveness_school_cheats:0"Gehe zur Gardistenschule"
+ homeland_knowledge_school_cheats:0"Gehen Sie zur Schule für Heimatkunde"
+ army_psychology_school_cheats:0"Gehe zur Schule für psychologische Kriegsführung"
+ army_trainer_school_cheats:0"Gehe zur Schule für Armeetrainer"
+ amphibious_school_cheats:0"Gehen Sie zur Schule der amphibischen Landung"
+  #CHEATS_MAX
+ specialization_focus_school_cheats_max:0"Gehe zur Akademie der Spezialeinheiten" 
+ adaptability_school_cheats_max:0"Gehe zur Schule der Anpassungsfähigkeit"
+ aggressiveness_school_cheats_max:0"Gehe zur Schule des Blitzkriegs"
+ anti_separatism_school_cheats_max:0"Gehe zur Assimilationsschule"
+ land_air_education_school_cheats_max:0"Gehe zur Schule für die Zusammenarbeit der Land und Luftarmee"
+ defensiveness_school_cheats_max:0"Gehe zur Gardistenschule"
+ homeland_knowledge_school_cheats_max:0"Gehen Sie zur Schule für Heimatkunde"
+ army_psychology_school_cheats_max:0"Gehe zur Schule für psychologische Kriegsführung"
+ army_trainer_school_cheats_max:0"Gehe zur Schule für Armeetrainer"
+ amphibious_school_cheats_max:0"Gehen Sie zur Schule der amphibischen Landung"
+ 
+ 
+ leaders_school_agency_category:0 "Schulen für Führungskräfte (Agentur)" 
+ #Agency Upgrades
+ 
+ #NORMAL
+ agents_quantity_school:0"Zur Agentenschule gehen"
+ iron_curtain_school:0"Gehe zur Schule des Eisernen Vorhangs"
+ cryptography_school:0"Gehen Sie zur Schule für Kryptographie"
+ counter_agency_school:0"Gehen Sie zur Schule der Gegenagentur"
+ agents_training_school:0"Gehen Sie zur Schule für Agenten-Ausbildung"
+ operations_quality_school:0"Gehen Sie zur Schule für Betriebsqualität" 
+ 
+ #EASY
+ agents_quantity_school_easy:0"Zur Agentenschule gehen"
+ iron_curtain_school_easy:0"Gehe zur Schule des Eisernen Vorhangs"
+ cryptography_school_easy:0"Gehen Sie zur Schule für Kryptographie"
+ counter_agency_school_easy:0"Gehen Sie zur Schule der Gegenagentur"
+ agents_training_school_easy:0"Gehen Sie zur Schule für Agenten-Ausbildung"
+ operations_quality_school_easy:0"Gehen Sie zur Schule für Betriebsqualität" 
+ #REALISTIC
+ agents_quantity_school_realistic:0"Zur Agentenschule gehen"
+ iron_curtain_school_realistic:0"Gehe zur Schule des Eisernen Vorhangs"
+ cryptography_school_realistic:0"Gehen Sie zur Schule für Kryptographie"
+ counter_agency_school_realistic:0"Gehen Sie zur Schule der Gegenagentur"
+ agents_training_school_realistic:0"Gehen Sie zur Schule für Agenten-Ausbildung"
+ operations_quality_school_realistic:0"Gehen Sie zur Schule für Betriebsqualität" 
+ #CHEATS
+ agents_quantity_school_cheats:0"Zur Agentenschule gehen"
+ iron_curtain_school_cheats:0"Gehe zur Schule des Eisernen Vorhangs"
+ cryptography_school_cheats:0"Gehen Sie zur Schule für Kryptographie"
+ counter_agency_school_cheats:0"Gehen Sie zur Schule der Gegenagentur"
+ agents_training_school_cheats:0"Gehen Sie zur Schule für Agenten-Ausbildung"
+ operations_quality_school_cheats:0"Gehen Sie zur Schule für Betriebsqualität" 
+ 
+  #CHEATS_MAX
+ agents_quantity_school_cheats_max:0"Zur Agentenschule gehen"
+ iron_curtain_school_cheats_max:0"Gehe zur Schule des Eisernen Vorhangs"
+ cryptography_school_cheats_max:0"Gehen Sie zur Schule für Kryptographie"
+ counter_agency_school_cheats_max:0"Gehen Sie zur Schule der Gegenagentur"
+ agents_training_school_cheats_max:0"Gehen Sie zur Schule für Agenten-Ausbildung"
+ operations_quality_school_cheats_max:0"Gehen Sie zur Schule für Betriebsqualität" 
+ 
+ leaders_school_air_category:0 "Schulen für Leiter (Luft)" 
+ #Air Upgrades
+ 
+ #NORMAL
+ flying_carefulness_school:0"Gehen Sie zur Schule der fliegenden Sorgfalt"
+ aviation_alloy_school:0"Gehen Sie zur Schule für Luftfahrtlegierungen"
+ avgas_efficiency_school:0"Gehen Sie zur Schule für Luftkraftstoff"
+ bomber_precision_school:0"Gehen Sie zur Schule der Bomber"
+ #EASY
+ flying_carefulness_school_easy:0"Gehen Sie zur Schule der fliegenden Sorgfalt"
+ aviation_alloy_school_easy:0"Gehen Sie zur Schule für Luftfahrtlegierungen"
+ avgas_efficiency_school_easy:0"Gehen Sie zur Schule für Luftkraftstoff"
+ bomber_precision_school_easy:0"Gehen Sie zur Schule der Bomber"
+ #REALISTIC
+ flying_carefulness_school_realistic:0"Gehen Sie zur Schule der fliegenden Sorgfalt"
+ aviation_alloy_school_realistic:0"Gehen Sie zur Schule für Luftfahrtlegierungen"
+ avgas_efficiency_school_realistic:0"Gehen Sie zur Schule für Luftkraftstoff"
+ bomber_precision_school_realistic:0"Gehen Sie zur Schule der Bomber"
+ #CHEATS
+ flying_carefulness_school_cheats:0"Gehen Sie zur Schule der fliegenden Sorgfalt"
+ aviation_alloy_school_cheats:0"Gehen Sie zur Schule für Luftfahrtlegierungen"
+ avgas_efficiency_school_cheats:0"Gehen Sie zur Schule für Luftkraftstoff"
+ bomber_precision_school_cheats:0"Gehen Sie zur Schule der Bomber"
+  #CHEATS_MAX
+ flying_carefulness_school_cheats_max:0"Gehen Sie zur Schule der fliegenden Sorgfalt"
+ aviation_alloy_school_cheats_max:0"Gehen Sie zur Schule für Luftfahrtlegierungen"
+ avgas_efficiency_school_cheats_max:0"Gehen Sie zur Schule für Luftkraftstoff"
+ bomber_precision_school_cheats_max:0"Gehen Sie zur Schule der Bomber"
+ leaders_school_naval_category:0 "Schulen für Führer (Marine)" 
+ #Naval Upgrades
+ 
+ #NORMAL
+ navy_engineers_school:0"Gehen Sie zur Schule für Schiffsingenieurwesen"
+ convoys_practicality_school:0"Gehen Sie zur Schule für Konvoimanagement"
+ consolidated_fleet_school:0"Gehen Sie zur Schule der Armeeflotte"
+ floating_airport_school:0"Gehen Sie zur Schule der Träger"
+ promptitude_school:0"Gehe zur Schule des Flottenreflexes"
+ fleets_diligence_school:0"Gehen Sie zur Schule der Flottenfleißigkeit"
+ mine_usage_school:0"Spielen Sie MineSweeper"
+ #EASY
+ navy_engineers_school_easy:0"Gehen Sie zur Schule für Schiffsingenieurwesen"
+ convoys_practicality_school_easy:0"Gehen Sie zur Schule für Konvoimanagement"
+ consolidated_fleet_school_easy:0"Gehen Sie zur Schule der Armeeflotte"
+ floating_airport_school_easy:0"Gehen Sie zur Schule der Träger"
+ promptitude_school_easy:0"Gehe zur Schule des Flottenreflexes"
+ fleets_diligence_school_easy:0"Gehen Sie zur Schule der Flottenfleißigkeit"
+ mine_usage_school_easy:0"Spielen Sie MineSweeper"
+ #REALISTIC
+ navy_engineers_school_realistic:0"Gehen Sie zur Schule für Schiffsingenieurwesen"
+ convoys_practicality_school_realistic:0"Gehen Sie zur Schule für Konvoimanagement"
+ consolidated_fleet_school_realistic:0"Gehen Sie zur Schule der Armeeflotte"
+ floating_airport_school_realistic:0"Gehen Sie zur Schule der Träger"
+ promptitude_school_realistic:0"Gehe zur Schule des Flottenreflexes"
+ fleets_diligence_school_realistic:0"Gehen Sie zur Schule der Flottenfleißigkeit"
+ mine_usage_school_realistic:0"Spielen Sie MineSweeper"
+ #CHEATS
+ navy_engineers_school_cheats:0"Gehen Sie zur Schule für Schiffsingenieurwesen"
+ convoys_practicality_school_cheats:0"Gehen Sie zur Schule für Konvoimanagement"
+ consolidated_fleet_school_cheats:0"Gehen Sie zur Schule der Armeeflotte"
+ floating_airport_school_cheats:0"Gehen Sie zur Schule der Träger"
+ promptitude_school_cheats:0"Gehe zur Schule des Flottenreflexes"
+ fleets_diligence_school_cheats:0"Gehen Sie zur Schule der Flottenfleißigkeit"
+ mine_usage_school_cheats:0"Spielen Sie MineSweeper"
+  #CHEATS_MAX
+ navy_engineers_school_cheats_max:0"Gehen Sie zur Schule für Schiffsingenieurwesen"
+ convoys_practicality_school_cheats_max:0"Gehen Sie zur Schule für Konvoimanagement"
+ consolidated_fleet_school_cheats_max:0"Gehen Sie zur Schule der Armeeflotte"
+ floating_airport_school_cheats_max:0"Gehen Sie zur Schule der Träger"
+ promptitude_school_cheats_max:0"Gehe zur Schule des Flottenreflexes"
+ fleets_diligence_school_cheats_max:0"Gehen Sie zur Schule der Flottenfleißigkeit"
+ mine_usage_school_cheats_max:0"Spielen Sie MineSweeper"

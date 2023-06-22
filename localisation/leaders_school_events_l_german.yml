@@ -1,0 +1,53 @@
+﻿l_german:
+
+ leaders_school.1.t:0 "Art des Spiels"
+ leaders_school.1.d:0 "Welche Art von Spiel spielst du?"
+ leaders_school.1.a:0 "Einzelspieler"
+ leaders_school.1.b:0 "Mehrspieler"
+ 
+ leaders_school.2.t:0 "Art des Spielers"
+ leaders_school.2.d:0 "Als wen spielst du?"
+ leaders_school.2.a:0 "Gastgeber"
+ leaders_school.2.b:0 "Gast"
+
+ leaders_school.3.t:0 "Leiterschuleinstellungen"
+ leaders_school.3.d:0 "Wer kann die Entscheidungen der Leader School verwenden?"
+ leaders_school.3.a:0 "Jedermann"
+ leaders_school.3.b:0 "Niemand"
+ leaders_school.3.c:0 "Spieler"
+ 
+ leaders_school.4.t:0 "Schwierigkeitsgrad der Leiterschule"
+ leaders_school.4.d:0 "Wie schwer wird es sein, bestimmte Eigenschaften zu bekommen(Spieler)"
+ leaders_school.4.a:0 "Einfach"
+ leaders_school.4.b:0 "Normal"
+ leaders_school.4.c:0 "Realistisch" 
+ leaders_school.4.e:0 "Betrügt"
+
+ leaders_school.5.t:0 "Schwierigkeitsgrad der Leiterschule"
+ leaders_school.5.d:0 "Wie schwer wird es sein, bestimmte Eigenschaften zu bekommen(AI)"
+ leaders_school.5.a:0 "Einfach"
+ leaders_school.5.b:0 "Normal"
+ leaders_school.5.c:0 "Realistisch" 
+ leaders_school.5.e:0 "Betrügt"
+  
+ leaders_school.6.t:0 "Arten von Betrügt (PLAYER)"
+ leaders_school.6.d:0 "Welche Art von Cheats Sie in die Spielentscheidungen implementieren möchten."
+ leaders_school.6.a:0 "Betrügt MAX LEVEL"
+ leaders_school.6.b:0 "Betrügt"
+ 
+ leaders_school.7.t:0 "Arten von Betrügt (AI)"
+ leaders_school.7.d:0 "Welche Art von Cheats Sie in die Spielentscheidungen implementieren möchten."
+ leaders_school.7.a:0 "Betrügt MAX LEVEL"
+ leaders_school.7.b:0 "Betrügt"
+ 
+ leaders_school.8.t:0 "Benachrichtigungen der Leiterschule"
+ leaders_school.8.d:0 "Möchten Sie jedes Mal benachrichtigt werden, wenn Ihr Leiter mit dem Lernen in Form einer Veranstaltung fertig ist."
+ leaders_school.8.a:0 "Jawohl"
+ leaders_school.8.b:0 "Nein"
+ 
+ leaders_school.9.t:0 "Ihre Führungskraft hat ihren Abschluss gemacht"
+ leaders_school.9.d:0 "Dies ist nur eine nervige Benachrichtigung, um Sie darüber zu informieren, dass Ihr Vorgesetzter seinen Abschluss gemacht hat."
+ leaders_school.9.a:0 "Schließlich"
+ 
+ 
+ 

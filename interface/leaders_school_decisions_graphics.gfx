@@ -1,0 +1,42 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_category_icon"
+		texturefile = "gfx/interface/decisions/category_icon_template.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_warfare_category_icon"
+		texturefile = "gfx/interface/decisions/decision_category_gre_faction_management.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_army_category_icon"
+		texturefile = "gfx/interface/decisions/decision_category_military_operation.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_country_category_icon"
+		texturefile = "gfx/interface/decisions/decision_category_usa_congress.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_agency_category_icon"
+		texturefile = "gfx/interface/decisions/decision_category_gre_hellenic_academy.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_agency_naval_icon"
+		texturefile = "gfx/interface/decisions/decision_category_mtg_naval_treaties.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_agency_air_icon"
+		texturefile = "gfx/interface/decisions/decision_category_hol_war_on_pacifism.dds"
+	}	
+	
+	spriteType = {
+		name = "GFX_decision_icon_default"
+		texturefile = "gfx/interface/decisions/decision_icon_default.dds"
+	}
+}

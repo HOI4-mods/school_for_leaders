@@ -1,0 +1,301 @@
+﻿l_french:
+ 
+ leaders_school_country_category:0 "Écoles pour Leader (Pays)" 
+ #Country Upgrades
+ 
+ #NORMAL
+ industrial_school:0 "Aller à l'école de l'industrie"
+ engineer_school:0 "Aller à l'école d'ingénieur"
+ ecology_school:0 "Aller à l'école d'économie" 
+ oil_tycoon_school:0 "Aller à l'école des combustibles fossiles"
+ science_school:0 "Aller à l'école des sciences"
+ endurance_training:0 "Aller à l'Académie militaire"
+ train_persuasiveness:0 "Aller à l'école de la communication populaire"
+  scrapper_school:0"Aller à l'école du scrap"
+ read_about_reliability:0 "Aller à l'école des bonnes manières"
+ secureness_school:0 "Aller à l'école des études de sécurité"
+ resources_school:0"Aller à l'école de la thésaurisation"
+ fertility_school:0 "Aller à l'école d'anatomie"
+ puppet_master_school:0 "Aller au théâtre"
+ play_tetris:0 "Jouer à Tetris"
+ 
+ #EASY
+ industrial_school_easy:0 "Aller à l'école de l'industrie"
+ engineer_school_easy:0 "Aller à l'école d'ingénieur"
+ ecology_school_easy:0 "Aller à l'école d'économie" 
+ oil_tycoon_school_easy:0 "Aller à l'école des combustibles fossiles"
+ science_school_easy:0 "Aller à l'école des sciences"
+ endurance_training_easy:0 "Aller à l'Académie militaire"
+ train_persuasiveness_easy:0 "Aller à l'école de la communication populaire"
+  scrapper_school_easy:0"Aller à l'école du scrap"
+ read_about_reliability_easy:0 "Aller à l'école des bonnes manières"
+ secureness_school_easy:0 "Aller à l'école des études de sécurité"
+ resources_school_easy:0"Aller à l'école de la thésaurisation"
+ fertility_school_easy:0 "Aller à l'école d'anatomie"
+ puppet_master_school_easy:0 "Aller au théâtre"
+ play_tetris_easy:0 "Jouer à Tetris"
+ 
+ #REALISTIC
+ industrial_school_realistic:0 "Aller à l'école de l'industrie"
+ engineer_school_realistic:0 "Aller à l'école d'ingénieur"
+ ecology_school_realistic:0 "Aller à l'école d'économie" 
+ oil_tycoon_school_realistic:0 "Aller à l'école des combustibles fossiles"
+ science_school_realistic:0 "Aller à l'école des sciences"
+ endurance_training_realistic:0 "Aller à l'Académie militaire"
+ train_persuasiveness_realistic:0 "Aller à l'école de la communication populaire"
+ scrapper_school_realistic:0"Aller à l'école du scrap" 
+ read_about_reliability_realistic:0 "Aller à l'école des bonnes manières"
+ secureness_school_realistic:0 "Aller à l'école des études de sécurité"
+ resources_school_realistic:0"Aller à l'école de la thésaurisation"
+ fertility_school_realistic:0 "Aller à l'école d'anatomie"
+ puppet_master_school_realistic:0 "Aller au théâtre"
+ play_tetris_realistic:0 "Jouer à Tetris"
+ 
+ #CHEATS
+ industrial_school_cheats:0 "Aller à l'école de l'industrie"
+ engineer_school_cheats:0 "Aller à l'école d'ingénieur"
+ ecology_school_cheats:0 "Aller à l'école d'économie" 
+ oil_tycoon_school_cheats:0 "Aller à l'école des combustibles fossiles"
+ science_school_cheats:0 "Aller à l'école des sciences"
+ endurance_training_cheats:0 "Aller à l'Académie militaire"
+ train_persuasiveness_cheats:0 "Aller à l'école de la communication populaire"
+ scrapper_school_cheats:0"Aller à l'école du scrap" 
+ read_about_reliability_cheats:0 "Aller à l'école des bonnes manières"
+ secureness_school_cheats:0 "Aller à l'école des études de sécurité"
+ resources_school_cheats:0"Aller à l'école de la thésaurisation"
+ fertility_school_cheats:0 "Aller à l'école d'anatomie"
+ puppet_master_school_cheats:0 "Aller au théâtre"
+ play_tetris_cheats:0 "Jouer à Tetris"
+ #CHEATS_MAX
+ industrial_school_cheats_max:0 "Aller à l'école de l'industrie"
+ engineer_school_cheats_max:0 "Aller à l'école d'ingénieur"
+ ecology_school_cheats_max:0 "Aller à l'école d'économie" 
+ oil_tycoon_school_cheats_max:0 "Aller à l'école des combustibles fossiles"
+ science_school_cheats_max:0 "Aller à l'école des sciences"
+ endurance_training_cheats_max:0 "Aller à l'Académie militaire"
+ train_persuasiveness_cheats_max:0 "Aller à l'école de la communication populaire"
+ scrapper_school_cheats_max:0"Aller à l'école du scrap" 
+ read_about_reliability_cheats_max:0 "Aller à l'école des bonnes manières"
+ secureness_school_cheats_max:0 "Aller à l'école des études de sécurité"
+ resources_school_cheats_max:0"Aller à l'école de la thésaurisation"
+ fertility_school_cheats_max:0 "Aller à l'école d'anatomie"
+ puppet_master_school_cheats_max:0 "Aller au théâtre"
+ play_tetris_cheats_max:0 "Jouer à Tetris"
+ 
+ 
+ leaders_school_warfare_category:0 "Écoles pour chef (Guerre)" 
+ #Warfare Upgrades
+ 
+ #NORMAL
+ warmonger_school:0 "Aller à l'école de psychologie"
+ helper_school:0 "Aller à l'école des pionniers"  
+ inventor_school:0 "Aller à l'école des développeurs"
+ scavenger_school:0 "Aller à l'école de survie"
+ commander_school:0 "Aller au Collège de commandement et d'état-major"
+ recruiter_school:0 "Aller à l'école de la mobilisation"
+ 
+ #EASY
+ warmonger_school_easy:0 "Aller à l'école de psychologie"
+ helper_school_easy:0 "Aller à l'école des pionniers"  
+ inventor_school_easy:0 "Aller à l'école des développeurs"
+ scavenger_school_easy:0 "Aller à l'école de survie"
+ commander_school_easy:0 "Aller au Collège de commandement et d'état-major"
+ recruiter_school_easy:0 "Aller à l'école de la mobilisation"
+ 
+ #REALISTIC
+ warmonger_school_realistic:0 "Aller à l'école de psychologie"
+ helper_school_realistic:0 "Aller à l'école des pionniers"  
+ inventor_school_realistic:0 "Aller à l'école des développeurs"
+ scavenger_school_realistic:0 "Aller à l'école de survie"
+ commander_school_realistic:0 "Aller au Collège de commandement et d'état-major"
+ recruiter_school_realistic:0 "Aller à l'école de la mobilisation"
+ 
+ #CHEATS
+ warmonger_school_cheats:0 "Aller à l'école de psychologie"
+ helper_school_cheats:0 "Aller à l'école des pionniers"  
+ inventor_school_cheats:0 "Aller à l'école des développeurs"
+ scavenger_school_cheats:0 "Aller à l'école de survie"
+ commander_school_cheats:0 "Aller au Collège de commandement et d'état-major"
+ recruiter_school_cheats:0 "Aller à l'école de la mobilisation"
+ #CHEATS_MAX
+ warmonger_school_cheats_max:0 "Aller à l'école de psychologie"
+ helper_school_cheats_max:0 "Aller à l'école des pionniers"  
+ inventor_school_cheats_max:0 "Aller à l'école des développeurs"
+ scavenger_school_cheats_max:0 "Aller à l'école de survie"
+ commander_school_cheats_max:0 "Aller au Collège de commandement et d'état-major"
+ recruiter_school_cheats_max:0 "Aller à l'école de la mobilisation"
+ 
+ leaders_school_army_category:0 "Écoles pour chef (armée)" 
+ #Army Upgrades
+ 
+ #NORMAL
+ specialization_focus_school:0"Aller à l'Académie des forces spéciales" 
+ adaptability_school:0"Aller à l'école de l'adaptabilité"
+ aggressiveness_school:0"Aller à l'école de Blitzkrieg"
+ anti_separatism_school:0"Aller à l'école d'assimilation"
+ land_air_education_school:0"Aller à l'école de coopération de l'armée de terre et de l'air"
+ defensiveness_school:0"Aller à l'école des gardes"
+ homeland_knowledge_school:0"Aller à l'école d'études sur la patrie"
+ army_psychology_school:0"Aller à l'école de guerre psychologique"
+ army_trainer_school:0"Aller à l'école pour les entraîneurs de l'armée"
+ amphibious_school:0"Aller à l'école du débarquement amphibie"
+ 
+ #EASY
+ specialization_focus_school_easy:0"Aller à l'Académie des forces spéciales" 
+ adaptability_school_easy:0"Aller à l'école de l'adaptabilité"
+ aggressiveness_school_easy:0"Aller à l'école de Blitzkrieg"
+ anti_separatism_school_easy:0"Aller à l'école d'assimilation"
+ land_air_education_school_easy:0"Aller à l'école de coopération de l'armée de terre et de l'air"
+ defensiveness_school_easy:0"Aller à l'école des gardes"
+ homeland_knowledge_school_easy:0"Aller à l'école d'études sur la patrie"
+ army_psychology_school_easy:0"Aller à l'école de guerre psychologique"
+ army_trainer_school_easy:0"Aller à l'école pour les entraîneurs de l'armée"
+ amphibious_school_easy:0"Aller à l'école du débarquement amphibie"
+ 
+ #REALISTIC
+ specialization_focus_school_realistic:0"Aller à l'Académie des forces spéciales" 
+ adaptability_school_realistic:0"Aller à l'école de l'adaptabilité"
+ aggressiveness_school_realistic:0"Aller à l'école de Blitzkrieg"
+ anti_separatism_school_realistic:0"Aller à l'école d'assimilation"
+ land_air_education_school_realistic:0"Aller à l'école de coopération de l'armée de terre et de l'air"
+ defensiveness_school_realistic:0"Aller à l'école des gardes"
+ homeland_knowledge_school_realistic:0"Aller à l'école d'études sur la patrie"
+ army_psychology_school_realistic:0"Aller à l'école de guerre psychologique"
+ army_trainer_school_realistic:0"Aller à l'école pour les entraîneurs de l'armée"
+ amphibious_school_realistic:0"Aller à l'école du débarquement amphibie"
+ 
+ #CHEATS
+ specialization_focus_school_cheats:0"Aller à l'Académie des forces spéciales" 
+ adaptability_school_cheats:0"Aller à l'école de l'adaptabilité"
+ aggressiveness_school_cheats:0"Aller à l'école de Blitzkrieg"
+ anti_separatism_school_cheats:0"Aller à l'école d'assimilation"
+ land_air_education_school_cheats:0"Aller à l'école de coopération de l'armée de terre et de l'air"
+ defensiveness_school_cheats:0"Aller à l'école des gardes"
+ homeland_knowledge_school_cheats:0"Aller à l'école d'études sur la patrie"
+ army_psychology_school_cheats:0"Aller à l'école de guerre psychologique"
+ army_trainer_school_cheats:0"Aller à l'école pour les entraîneurs de l'armée"
+ amphibious_school_cheats:0"Aller à l'école du débarquement amphibie"
+ #CHEATS_MAX
+ specialization_focus_school_cheats_max:0"Aller à l'Académie des forces spéciales" 
+ adaptability_school_cheats_max:0"Aller à l'école de l'adaptabilité"
+ aggressiveness_school_cheats_max:0"Aller à l'école de Blitzkrieg"
+ anti_separatism_school_cheats_max:0"Aller à l'école d'assimilation"
+ land_air_education_school_cheats_max:0"Aller à l'école de coopération de l'armée de terre et de l'air"
+ defensiveness_school_cheats_max:0"Aller à l'école des gardes"
+ homeland_knowledge_school_cheats_max:0"Aller à l'école d'études sur la patrie"
+ army_psychology_school_cheats_max:0"Aller à l'école de guerre psychologique"
+ army_trainer_school_cheats_max:0"Aller à l'école pour les entraîneurs de l'armée"
+ amphibious_school_cheats_max:0"Aller à l'école du débarquement amphibie"
+ 
+ leaders_school_agency_category:0 "Écoles pour les leaders (Agence) " 
+ #Agency Upgrades
+ 
+ #NORMAL
+ agents_quantity_school:0"Aller à l'école des agents"
+ iron_curtain_school:0"Aller à l'école du rideau de fer"
+ cryptography_school:0"Aller à l'école de cryptographie"
+ counter_agency_school:0"Aller à l'école de l'agence de comptoir"
+ agents_training_school:0"Aller à l'école des agents de formation"
+ operations_quality_school:0"Aller à l'école de la qualité des opérations" 
+ 
+ #EASY
+ agents_quantity_school_easy:0"Aller à l'école des agents"
+ iron_curtain_school_easy:0"Aller à l'école du rideau de fer"
+ cryptography_school_easy:0"Aller à l'école de cryptographie"
+ counter_agency_school_easy:0"Aller à l'école de l'agence de comptoir"
+ agents_training_school_easy:0"Aller à l'école des agents de formation"
+ operations_quality_school_easy:0"Aller à l'école de la qualité des opérations" 
+ #REALISTIC
+ agents_quantity_school_realistic:0"Aller à l'école des agents"
+ iron_curtain_school_realistic:0"Aller à l'école du rideau de fer"
+ cryptography_school_realistic:0"Aller à l'école de cryptographie"
+ counter_agency_school_realistic:0"Aller à l'école de l'agence de comptoir"
+ agents_training_school_realistic:0"Aller à l'école des agents de formation"
+ operations_quality_school_realistic:0"Aller à l'école de la qualité des opérations" 
+ #CHEATS
+ agents_quantity_school_cheats:0"Aller à l'école des agents"
+ iron_curtain_school_cheats:0"Aller à l'école du rideau de fer"
+ cryptography_school_cheats:0"Aller à l'école de cryptographie"
+ counter_agency_school_cheats:0"Aller à l'école de l'agence de comptoir"
+ agents_training_school_cheats:0"Aller à l'école des agents de formation"
+ operations_quality_school_cheats:0"Aller à l'école de la qualité des opérations" 
+  #CHEATS_MAX
+ agents_quantity_school_cheats_max:0"Aller à l'école des agents"
+ iron_curtain_school_cheats_max:0"Aller à l'école du rideau de fer"
+ cryptography_school_cheats_max:0"Aller à l'école de cryptographie"
+ counter_agency_school_cheats_max:0"Aller à l'école de l'agence de comptoir"
+ agents_training_school_cheats_max:0"Aller à l'école des agents de formation"
+ operations_quality_school_cheats_max:0"Aller à l'école de la qualité des opérations" 
+ 
+ leaders_school_air_category:0 "Écoles pour chef (air)" 
+ #Air Upgrades
+ 
+ #NORMAL
+ flying_carefulness_school:0"Aller à l'école de prudence en vol"
+ aviation_alloy_school:0"Aller à l'école des alliages d'aviation"
+ avgas_efficiency_school:0"Aller à l'école d'Air Fuel"
+ bomber_precision_school:0"Aller à l'école des bombardiers"
+ #EASY
+ flying_carefulness_school_easy:0"Aller à l'école de prudence en vol"
+ aviation_alloy_school_easy:0"Aller à l'école des alliages d'aviation"
+ avgas_efficiency_school_easy:0"Aller à l'école d'Air Fuel"
+ bomber_precision_school_easy:0"Aller à l'école des bombardiers"
+ #REALISTIC
+ flying_carefulness_school_realistic:0"Aller à l'école de prudence en vol"
+ aviation_alloy_school_realistic:0"Aller à l'école des alliages d'aviation"
+ avgas_efficiency_school_realistic:0"Aller à l'école d'Air Fuel"
+ bomber_precision_school_realistic:0"Aller à l'école des bombardiers"
+ #CHEATS
+ flying_carefulness_school_cheats:0"Aller à l'école de prudence en vol"
+ aviation_alloy_school_cheats:0"Aller à l'école des alliages d'aviation"
+ avgas_efficiency_school_cheats:0"Aller à l'école d'Air Fuel"
+ bomber_precision_school_cheats:0"Aller à l'école des bombardiers"
+ #CHEATS_MAX
+ flying_carefulness_school_cheats_max:0"Aller à l'école de prudence en vol"
+ aviation_alloy_school_cheats_max:0"Aller à l'école des alliages d'aviation"
+ avgas_efficiency_school_cheats_max:0"Aller à l'école d'Air Fuel"
+ bomber_precision_school_cheats_max:0"Aller à l'école des bombardiers"
+ 
+ leaders_school_naval_category:0 "Écoles de chef (marine)" 
+ #Naval Upgrades
+ 
+ #NORMAL
+ navy_engineers_school:0"Aller à l'école de génie naval"
+ convoys_practicality_school:0"Aller à l'école de gestion des convois"
+ consolidated_fleet_school:0"Aller à l'école de la flotte de l'armée"
+ floating_airport_school:0"Aller à l'école des transporteurs"
+ promptitude_school:0"Aller à l'école des flottes Reflex"
+ fleets_diligence_school:0"Aller à l'école de diligence des flottes"
+ mine_usage_school:0"Jouer au Démineur"
+ #EASY
+ navy_engineers_school_easy:0"Aller à l'école de génie naval"
+ convoys_practicality_school_easy:0"Aller à l'école de gestion des convois"
+ consolidated_fleet_school_easy:0"Aller à l'école de la flotte de l'armée"
+ floating_airport_school_easy:0"Aller à l'école des transporteurs"
+ promptitude_school_easy:0"Aller à l'école des flottes Reflex"
+ fleets_diligence_school_easy:0"Aller à l'école de diligence des flottes"
+ mine_usage_school_easy:0"Jouer au Démineur"
+ #REALISTIC
+ navy_engineers_school_realistic:0"Aller à l'école de génie naval"
+ convoys_practicality_school_realistic:0"Aller à l'école de gestion des convois"
+ consolidated_fleet_school_realistic:0"Aller à l'école de la flotte de l'armée"
+ floating_airport_school_realistic:0"Aller à l'école des transporteurs"
+ promptitude_school_realistic:0"Aller à l'école des flottes Reflex"
+ fleets_diligence_school_realistic:0"Aller à l'école de diligence des flottes"
+ mine_usage_school_realistic:0"Jouer au Démineur"
+ #CHEATS
+ navy_engineers_school_cheats:0"Aller à l'école de génie naval"
+ convoys_practicality_school_cheats:0"Aller à l'école de gestion des convois"
+ consolidated_fleet_school_cheats:0"Aller à l'école de la flotte de l'armée"
+ floating_airport_school_cheats:0"Aller à l'école des transporteurs"
+ promptitude_school_cheats:0"Aller à l'école des flottes Reflex"
+ fleets_diligence_school_cheats:0"Aller à l'école de diligence des flottes"
+ mine_usage_school_cheats:0"Jouer au Démineur"
+ #CHEATS_MAX
+ navy_engineers_school_cheats_max:0"Aller à l'école de génie naval"
+ convoys_practicality_school_cheats_max:0"Aller à l'école de gestion des convois"
+ consolidated_fleet_school_cheats_max:0"Aller à l'école de la flotte de l'armée"
+ floating_airport_school_cheats_max:0"Aller à l'école des transporteurs"
+ promptitude_school_cheats_max:0"Aller à l'école des flottes Reflex"
+ fleets_diligence_school_cheats_max:0"Aller à l'école de diligence des flottes"
+ mine_usage_school_cheats_max:0"Jouer au Démineur"

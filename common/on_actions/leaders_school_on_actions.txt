@@ -1,12 +1,12 @@
 on_actions = {
 	on_startup = {
 		effect = {
-			every_country = {
-				limit = {
-					is_ai = no
-				}			
-				country_event = leaders_school.1
+			every_possible_country = {
+				country_event = {
+				id = leaders_school.1
+				days = 10
+				}
 			}
 		}
-	}
+	}	
 }

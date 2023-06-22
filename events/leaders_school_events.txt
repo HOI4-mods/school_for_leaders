@@ -13,6 +13,11 @@ country_event = {
 	
 	fire_only_once = no
 	is_triggered_only = yes
+	
+	trigger = {
+		is_ai = no
+	}
+	
 	immediate = {
 	}
 	
